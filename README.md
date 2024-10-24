@@ -3,6 +3,30 @@
 Here you will find Jupyter Notebooks discussed in the second edition of the book Docking Screens for Drug Discovery. It focuses on the development of computational models to predict binding affinity based on the atomic coordinates of protein-ligand complexes. All codes are Python snippets based on the program [SAnDReS 2.0](https://github.com/azevedolab/sandres#readme) ([de Azevedo et al., 2024](https://doi.org/10.1002/jcc.27449)). You will also find data about the statistical analysis of machine learning models developed using SAnDReS 2.0.
 As in the first edition, this book focuses on recent developments in docking simulations for target proteins with chapters on specific techniques or applications for docking simulations, including the major docking programs. Additionally, the volume explores the scoring functions developed for the analysis of docking results and to predict ligand-binding affinity as well as the importance of docking simulations for the initial stages of drug discovery. Written for the highly successful Methods in Molecular Biology series, this collection presents the kind of detail and key implementation advice to ensure successful results. You find infomation about the first edition in the following link: [Docking Screens for Drug Discovery](https://link.springer.com/book/10.1007/978-1-4939-9752-7).
 <P>&nbsp;</P>
+<H2>Jupyter Notebooks</H2>
+<B>Chapter 01</B>
+<br> </br>
+<a href = "https://colab.research.google.com/drive/1mUo4-24mWi7DBtS6K2A_Lk4FFjt39dl4?usp=sharing" title = "LinearRegression4RandomData.ipynb">LinearRegression4RandomData.ipynb</a>
+<br> </br>
+<a href = "https://colab.research.google.com/drive/18HmfAjYDKGAOu0lFyzEteXK65DtoJiLY?usp=sharing" title = "LinearRegression4CDK2_Ki.ipynb">LinearRegression4CDK2_Ki.ipynb</a>
+<br> </br>
+<a href = "https://colab.research.google.com/drive/1X6bdeK3DTlLxnTS-4T1uB1VrTAQ_Se0U?usp=sharing" title = "LinearRegression4CASF-2016_Ki.ipynb (solution of code exercise 1)">LinearRegression4CASF-2016_Ki.ipynb (solution of code exercise 1)</a>
+<br> </br>
+<a href = "https://colab.research.google.com/drive/1WAieJyv1dPUjDfUZ_hDAWm2P9fAVcfCi?usp=sharing" title = "LinearRegression4CDK19_IC50.ipynb (solution of code exercise 2)">LinearRegression4CDK19_IC50.ipynb (solution of code exercise 2)</a>
+<br> </br>
+<a href = "https://colab.research.google.com/drive/1nXPL5zI4ws3kvBx3q0u-I_xZa5HIgVrL?usp=sharing" title = "MultipleLinearRegressionModels4CDK2_Ki.ipynb (solution of code challenge)">MultipleLinearRegressionModels4CDK2_Ki.ipynb (solution of code challenge)</a>
+<P>&nbsp;</P>
+<B>Chapter 02</B>
+<br> </br>
+<a href = "https://colab.research.google.com/drive/1tqYnH5LtzWhrnEKpFJ-zSXWhkfeSfseQ?usp=sharing" title = "Lasso4RandomData.ipynb">Lasso4RandomData.ipynb</a>
+<br> </br>
+<a href = "https://colab.research.google.com/drive/1hQ_0doz3vj7tl5RWIpkcytTm_BAvZgUP?usp=sharing" title = "Lasso4CDK2_Ki.ipynb">Lasso4CDK2_Ki.ipynb</a>
+<br> </br>
+<a href = "https://colab.research.google.com/drive/1dlDgSBNtyWcKRvAvnTALisZlbIdObxsH?usp=sharing" title = "Lasso4CASF_2016_Ki.ipynb (solution of code exercises 1 and 2)">Lasso4CASF_2016_Ki.ipynb (solution of code exercises 1 and 2)</a>
+<br> </br>
+<a href = "https://colab.research.google.com/drive/1lf3Rd7Bvdgpm1KkNzViJ2AuvJtnBQ_Z7?usp=sharing" title = "MultipleLassoRegressionModels4CASF_2016_Ki.ipynb (solution of code challenge)">MultipleLassoRegressionModels4CASF_2016_Ki.ipynb (solution of code challenge)</a>
+<P>&nbsp;</P>  
+<P>&nbsp;</P>
 <H2>Editor: Dr. Walter F. de Azevedo, Jr.</H2>
 <img src="https://drive.usercontent.google.com/download?id=1ao9REI0b_bCbjDy2pu4k3Tbr35LCB5Qt&export=view&authuser=0" width=200 align=left title="Walter Filgueira de Azevedo, Jr. October 02, 2024. Alfenas-MG. Brazil."></a>
 <P>
