@@ -1,9 +1,9 @@
 # Docking Screens for Drug Discovery (2nd Edition)
 
-Here you will find Jupyter Notebooks discussed in the second edition of the book Docking Screens for Drug Discovery. It focuses on the development of computational models to predict binding affinity based on the atomic coordinates of protein-ligand complexes. All codes are Python snippets based on the program [SAnDReS 2.0](https://github.com/azevedolab/sandres#readme) ([de Azevedo et al., 2024](https://doi.org/10.1002/jcc.27449)). You will also find data about the statistical analysis of machine learning models developed using SAnDReS 2.0.
+Here you will find links to Jupyter Notebooks discussed in the second edition of the book Docking Screens for Drug Discovery. This new edition concentrates on the development of computational models to predict binding affinity based on the atomic coordinates of protein-ligand complexes. All codes are Python snippets based on the program [SAnDReS 2.0](https://github.com/azevedolab/sandres#readme) ([de Azevedo et al., 2024](https://doi.org/10.1002/jcc.27449)). You will also find data about the statistical analysis of machine learning models developed using SAnDReS 2.0.
 As in the first edition, this book focuses on recent developments in docking simulations for target proteins with chapters on specific techniques or applications for docking simulations, including the major docking programs. Additionally, the volume explores the scoring functions developed for the analysis of docking results and to predict ligand-binding affinity as well as the importance of docking simulations for the initial stages of drug discovery. Written for the highly successful Methods in Molecular Biology series, this collection presents the kind of detail and key implementation advice to ensure successful results. You find infomation about the first edition in the following link: [Docking Screens for Drug Discovery](https://link.springer.com/book/10.1007/978-1-4939-9752-7).
 <P>&nbsp;</P>
-<H2>Jupyter Notebooks</H2>
+<H2>Links to Jupyter Notebooks Available at Colab</H2>
 <B>Chapter 01</B>
 <br> </br>
 <a href = "https://colab.research.google.com/drive/1mUo4-24mWi7DBtS6K2A_Lk4FFjt39dl4?usp=sharing" title = "LinearRegression4RandomData.ipynb">LinearRegression4RandomData.ipynb</a>
@@ -25,6 +25,14 @@ As in the first edition, this book focuses on recent developments in docking sim
 <a href = "https://colab.research.google.com/drive/1dlDgSBNtyWcKRvAvnTALisZlbIdObxsH?usp=sharing" title = "Lasso4CASF_2016_Ki.ipynb (solution of code exercises 1 and 2)">Lasso4CASF_2016_Ki.ipynb (solution of code exercises 1 and 2)</a>
 <br> </br>
 <a href = "https://colab.research.google.com/drive/1lf3Rd7Bvdgpm1KkNzViJ2AuvJtnBQ_Z7?usp=sharing" title = "MultipleLassoRegressionModels4CASF_2016_Ki.ipynb (solution of code challenge)">MultipleLassoRegressionModels4CASF_2016_Ki.ipynb (solution of code challenge)</a>
+<P>&nbsp;</P>
+<B>Chapter 03</B>
+<br> </br>
+<a href = "https://colab.research.google.com/drive/1a5syzJWAEO_crvrnz4tcFafYtPh0d01x?usp=sharing" title = "Ridge4RandomData.ipynb">Ridge4RandomData.ipynb</a>
+<br> </br>
+<a href = "https://colab.research.google.com/drive/1Cfqn-mGO7mX6rJjPp7ytALGFIrar7CYH?usp=sharing" title = "Ridge_CDK2_Ki_MVD.ipynb">Ridge_CDK2_Ki_MVD.ipynb</a>
+<br> </br>
+<a href = "https://colab.research.google.com/drive/1abT2J90I9WFG6WzGfEhjqomlTuLxUpfb?usp=sharing" title = "MultipleRidgeRegressionModels4CDK2_Ki_MVD.ipynb (solution of code challenge)">MultipleRidgeRegressionModels4CDK2_Ki_MVD.ipynb (solution of code challenge)</a>
 <P>&nbsp;</P>  
 <P>&nbsp;</P>
 <H2>Editor: Dr. Walter F. de Azevedo, Jr.</H2>
