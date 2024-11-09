@@ -32,6 +32,10 @@ As in the first edition, this book focuses on recent developments in docking sim
 <br> </br>
 <a href = "https://colab.research.google.com/drive/1Cfqn-mGO7mX6rJjPp7ytALGFIrar7CYH?usp=sharing" title = "Ridge_CDK2_Ki_MVD.ipynb">Ridge_CDK2_Ki_MVD.ipynb</a>
 <br> </br>
+<a href = "https://colab.research.google.com/drive/1V9OAYlhlf8fU4XDnko2DG7hP0vUhRtat?usp=sharing" title = "MultipleAlphasRidgeRegressionModels4CDK2_Ki_MVD.ipynb (solution of code exercise 2)">MultipleAlphasRidgeRegressionModels4CDK2_Ki_MVD.ipynb (solution of code exercise 2)</a>
+<br> </br>
+<a href = "https://colab.research.google.com/drive/1EjmsKkKPLqYILR__HAv1UP3ccGFnCCwC?usp=sharing" title = "Ridge_CDK2_Ki_Vina.ipynb (solution of code exercise 3)">Ridge_CDK2_Ki_Vina.ipynb (solution of code exercise 3)</a>
+<br> </br>
 <a href = "https://colab.research.google.com/drive/1abT2J90I9WFG6WzGfEhjqomlTuLxUpfb?usp=sharing" title = "MultipleRidgeRegressionModels4CDK2_Ki_MVD.ipynb (solution of code challenge)">MultipleRidgeRegressionModels4CDK2_Ki_MVD.ipynb (solution of code challenge)</a>
 <P>&nbsp;</P>  
 <P>&nbsp;</P>
