@@ -3,18 +3,18 @@
 Here you will find links to Jupyter Notebooks discussed in the second edition of the book Docking Screens for Drug Discovery. This new edition concentrates on the development of computational models to predict binding affinity based on the atomic coordinates of protein-ligand complexes. All codes are Python snippets based on the program [SAnDReS 2.0](https://github.com/azevedolab/sandres#readme) ([de Azevedo et al., 2024](https://doi.org/10.1002/jcc.27449)). You will also find data about the statistical analysis of machine learning models developed using SAnDReS 2.0.
 As in the first edition, this book focuses on recent developments in docking simulations for target proteins with chapters on specific techniques or applications for docking simulations, including the major docking programs. Additionally, the volume explores the scoring functions developed for the analysis of docking results and to predict ligand-binding affinity as well as the importance of docking simulations for the initial stages of drug discovery. Written for the highly successful Methods in Molecular Biology series, this collection presents the kind of detail and key implementation advice to ensure successful results. You find infomation about the first edition in the following link: [Docking Screens for Drug Discovery](https://link.springer.com/book/10.1007/978-1-4939-9752-7).
 <P>&nbsp;</P>
-<H2>Links to Jupyter Notebooks Available at Colab</H2>
+<H2>Links to Jupyter Notebooks Available</H2>
 <B>Chapter 01</B>
 <br> </br>
-<a href = "https://colab.research.google.com/drive/1mUo4-24mWi7DBtS6K2A_Lk4FFjt39dl4?usp=sharing" title = "LinearRegression4RandomData.ipynb">LinearRegression4RandomData.ipynb</a>
+<a href = "https://github.com/azevedolab/Docking/blob/main/LinearRegression4RandomData.ipynb" title = "LinearRegression4RandomData.ipynb">LinearRegression4RandomData.ipynb</a>
 <br> </br>
-<a href = "https://colab.research.google.com/drive/18HmfAjYDKGAOu0lFyzEteXK65DtoJiLY?usp=sharing" title = "LinearRegression4CDK2_Ki.ipynb">LinearRegression4CDK2_Ki.ipynb</a>
+<a href = "https://github.com/azevedolab/Docking/blob/main/LinearRegression4CDK2_Ki.ipynb" title = "LinearRegression4CDK2_Ki.ipynb">LinearRegression4CDK2_Ki.ipynb</a>
 <br> </br>
-<a href = "https://colab.research.google.com/drive/1X6bdeK3DTlLxnTS-4T1uB1VrTAQ_Se0U?usp=sharing" title = "LinearRegression4CASF-2016_Ki.ipynb (solution of code exercise 1)">LinearRegression4CASF-2016_Ki.ipynb (solution of code exercise 1)</a>
+<a href = "https://github.com/azevedolab/Docking/blob/main/LinearRegression4CASF_2016_Ki.ipynb" title = "LinearRegression4CASF-2016_Ki.ipynb (solution of code exercise 1)">LinearRegression4CASF-2016_Ki.ipynb (solution of code exercise 1)</a>
 <br> </br>
-<a href = "https://colab.research.google.com/drive/1WAieJyv1dPUjDfUZ_hDAWm2P9fAVcfCi?usp=sharing" title = "LinearRegression4CDK19_IC50.ipynb (solution of code exercise 2)">LinearRegression4CDK19_IC50.ipynb (solution of code exercise 2)</a>
+<a href = "https://github.com/azevedolab/Docking/blob/main/LinearRegression4CDK19_IC50.ipynb" title = "LinearRegression4CDK19_IC50.ipynb (solution of code exercise 2)">LinearRegression4CDK19_IC50.ipynb (solution of code exercise 2)</a>
 <br> </br>
-<a href = "https://colab.research.google.com/drive/1nXPL5zI4ws3kvBx3q0u-I_xZa5HIgVrL?usp=sharing" title = "MultipleLinearRegressionModels4CDK2_Ki.ipynb (solution of code challenge)">MultipleLinearRegressionModels4CDK2_Ki.ipynb (solution of code challenge)</a>
+<a href = "https://github.com/azevedolab/Docking/blob/main/LinearRegressionMultipleModels4CDK2_Ki.ipynb" title = "MultipleLinearRegressionModels4CDK2_Ki.ipynb (solution of code challenge)">MultipleLinearRegressionModels4CDK2_Ki.ipynb (solution of code challenge)</a>
 <P>&nbsp;</P>
 <B>Chapter 02</B>
 <br> </br>
