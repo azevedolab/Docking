@@ -14,7 +14,7 @@ As in the first edition, this book focuses on recent developments in docking sim
 <br> </br>
 <a href = "https://github.com/azevedolab/Docking/blob/main/LinearRegression4CDK19_IC50.ipynb" title = "LinearRegression4CDK19_IC50.ipynb (solution of code exercise 2)">LinearRegression4CDK19_IC50.ipynb (solution of code exercise 2)</a>
 <br> </br>
-<a href = "https://github.com/azevedolab/Docking/blob/main/LinearRegressionMultipleModels4CDK2_Ki.ipynb" title = "MultipleLinearRegressionModels4CDK2_Ki.ipynb (solution of code challenge)">MultipleLinearRegressionModels4CDK2_Ki.ipynb (solution of code challenge)</a>
+<a href = "https://github.com/azevedolab/Docking/blob/main/LinearRegressionMultipleModels4CDK2_Ki.ipynb" title = "LinearRegressionMultipleModels4CDK2_Ki.ipynb (solution of code challenge)">LinearRegressionMultipleModels4CDK2_Ki.ipynb (solution of code challenge)</a>
 <P>&nbsp;</P>
 <B>Chapter 02</B>
 <br> </br>
