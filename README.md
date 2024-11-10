@@ -3,7 +3,7 @@
 Here you will find links to Jupyter Notebooks discussed in the second edition of the book Docking Screens for Drug Discovery. This new edition concentrates on the development of computational models to predict binding affinity based on the atomic coordinates of protein-ligand complexes. All codes are Python snippets based on the program [SAnDReS 2.0](https://github.com/azevedolab/sandres#readme) ([de Azevedo et al., 2024](https://doi.org/10.1002/jcc.27449)). You will also find data about the statistical analysis of machine learning models developed using SAnDReS 2.0.
 As in the first edition, this book focuses on recent developments in docking simulations for target proteins with chapters on specific techniques or applications for docking simulations, including the major docking programs. Additionally, the volume explores the scoring functions developed for the analysis of docking results and to predict ligand-binding affinity as well as the importance of docking simulations for the initial stages of drug discovery. Written for the highly successful Methods in Molecular Biology series, this collection presents the kind of detail and key implementation advice to ensure successful results. You find infomation about the first edition in the following link: [Docking Screens for Drug Discovery](https://link.springer.com/book/10.1007/978-1-4939-9752-7).
 <P>&nbsp;</P>
-<H2>Links to Jupyter Notebooks Available</H2>
+<H2>Links to Jupyter Notebooks</H2>
 <B>Chapter 01</B>
 <br> </br>
 <a href = "https://github.com/azevedolab/Docking/blob/main/LinearRegression4RandomData.ipynb" title = "LinearRegression4RandomData.ipynb">LinearRegression4RandomData.ipynb</a>
