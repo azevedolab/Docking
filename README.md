@@ -18,13 +18,13 @@ As in the first edition, this book focuses on recent developments in docking sim
 <P>&nbsp;</P>
 <B>Chapter 02</B>
 <br> </br>
-<a href = "https://colab.research.google.com/drive/1tqYnH5LtzWhrnEKpFJ-zSXWhkfeSfseQ?usp=sharing" title = "Lasso4RandomData.ipynb">Lasso4RandomData.ipynb</a>
+<a href = "https://github.com/azevedolab/Docking/blob/main/Lasso4RandomData.ipynb" title = "Lasso4RandomData.ipynb">Lasso4RandomData.ipynb</a>
 <br> </br>
-<a href = "https://colab.research.google.com/drive/1hQ_0doz3vj7tl5RWIpkcytTm_BAvZgUP?usp=sharing" title = "Lasso4CDK2_Ki.ipynb">Lasso4CDK2_Ki.ipynb</a>
+<a href = "https://github.com/azevedolab/Docking/blob/main/Lasso4CDK2_Ki.ipynb" title = "Lasso4CDK2_Ki.ipynb">Lasso4CDK2_Ki.ipynb</a>
 <br> </br>
-<a href = "https://colab.research.google.com/drive/1dlDgSBNtyWcKRvAvnTALisZlbIdObxsH?usp=sharing" title = "Lasso4CASF_2016_Ki.ipynb (solution of code exercises 1 and 2)">Lasso4CASF_2016_Ki.ipynb (solution of code exercises 1 and 2)</a>
+<a href = "https://github.com/azevedolab/Docking/blob/main/Lasso4CASF_2016_Ki.ipynb" title = "Lasso4CASF_2016_Ki.ipynb (solution of code exercises 1 and 2)">Lasso4CASF_2016_Ki.ipynb (solution of code exercises 1 and 2)</a>
 <br> </br>
-<a href = "https://colab.research.google.com/drive/1lf3Rd7Bvdgpm1KkNzViJ2AuvJtnBQ_Z7?usp=sharing" title = "MultipleLassoRegressionModels4CASF_2016_Ki.ipynb (solution of code challenge)">MultipleLassoRegressionModels4CASF_2016_Ki.ipynb (solution of code challenge)</a>
+<a href = "https://github.com/azevedolab/Docking/blob/main/LassoRegressionMultipleModels4CASF_2016_Ki.ipynb" title = "LassoRegressionMultipleModels4CASF_2016_Ki.ipynb (solution of code challenge)">LassoRegressionMultipleModels4CASF_2016_Ki.ipynb (solution of code challenge)</a>
 <P>&nbsp;</P>
 <B>Chapter 03</B>
 <br> </br>
