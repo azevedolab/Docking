@@ -41,6 +41,16 @@ As in the first edition, this book focuses on recent developments in docking sim
 <br> </br>
 <b>Chapter 04: Elastic Net Regression to Predict CDK2 Inhibition</b>
 <br> </br>
+<a href = "https://github.com/azevedolab/Docking/blob/main/ElasticNet4RandomData.ipynb" title = "ElasticNet4RandomData.ipynb">ElasticNet4RandomData.ipynb</a>
+<br> </br>
+<a href = "https://github.com/azevedolab/Docking/blob/main/ElasticNet4CDK2_Ki.ipynb" title = "ElasticNet4CDK2_Ki.ipynb">ElasticNet4CDK2_Ki.ipynb</a>
+<br> </br>
+<a href = "https://github.com/azevedolab/Docking/blob/main/ElasticNet4CASF_2016_Ki.ipynb" title = "ElasticNet4CASF_2016_Ki.ipynb">ElasticNet4CASF_2016_Ki.ipynb</a>
+<br> </br>
+<a href = "" title = "ElasticNet4CASF_2016_Ki.ipynb">ElasticNet4CASF_2016_Ki.ipynb</a>
+<br> </br>
+
+<br> </br>
 <br> </br>
 <br> </br>
 <h2>Editor: Dr. Walter F. de Azevedo, Jr.</h2>
