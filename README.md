@@ -45,12 +45,9 @@ As in the first edition, this book focuses on recent developments in docking sim
 <br> </br>
 <a href = "https://github.com/azevedolab/Docking/blob/main/ElasticNet4CDK2_Ki.ipynb" title = "ElasticNet4CDK2_Ki.ipynb">ElasticNet4CDK2_Ki.ipynb</a>
 <br> </br>
-<a href = "https://github.com/azevedolab/Docking/blob/main/ElasticNet4CASF_2016_Ki.ipynb" title = "ElasticNet4CASF_2016_Ki.ipynb">ElasticNet4CASF_2016_Ki.ipynb</a>
+<a href = "https://github.com/azevedolab/Docking/blob/main/ElasticNet4CASF_2016_Ki.ipynb" title = "ElasticNet4CASF_2016_Ki.ipynb (solution for code exercises 1 and 2)">ElasticNet4CASF_2016_Ki.ipynb (solution for code exercises 1 and 2)</a>
 <br> </br>
-<a href = "" title = "ElasticNet4CASF_2016_Ki.ipynb">ElasticNet4CASF_2016_Ki.ipynb</a>
-<br> </br>
-
-<br> </br>
+<a href = "https://github.com/azevedolab/Docking/blob/main/ElasticNetRegressionModels4CASF_2016_Ki.ipynb" title = "ElasticNetRegressionModels4CASF_2016_Ki.ipynb (solution for code challenge)">ElasticNetRegressionModels4CASF_2016_Ki.ipynb (solution for code challenge)</a>
 <br> </br>
 <br> </br>
 <h2>Editor: Dr. Walter F. de Azevedo, Jr.</h2>
