@@ -49,6 +49,16 @@ As in the first edition, this book focuses on recent developments in docking sim
 <br> </br>
 <a href = "https://github.com/azevedolab/Docking/blob/main/ElasticNetRegressionModels4CASF_2016_Ki.ipynb" title = "ElasticNetRegressionModels4CASF_2016_Ki.ipynb (solution for code challenge)">ElasticNetRegressionModels4CASF_2016_Ki.ipynb (solution for code challenge)</a>
 <br> </br>
+<b>Chapter 05: Stochastic Gradient Descent Regression to Predict Enzyme Inhibition</b>
+<br> </br>
+<a href = "https://github.com/azevedolab/Docking/blob/main/SGDRegressor4RandomData.ipynb" title = "SGDRegressor4RandomData.ipynb">SGDRegressor4RandomData.ipynb</a>
+<br> </br>
+<a href = "https://github.com/azevedolab/Docking/blob/main/SGDRegressor4CDK2_Ki.ipynb" title = "SGDRegressor4CDK2_Ki.ipynb">SGDRegressor4CDK2_Ki.ipynb</a>
+<br> </br>
+<a href = "https://github.com/azevedolab/Docking/blob/main/SGDRegressor4CASF_2016_Ki.ipynb" title = "SGDRegressor4CASF_2016_Ki.ipynb (solution for code exercises 1 and 2)">SGDRegressor4CASF_2016_Ki.ipynb (solution for code exercises 1 and 2)</a>
+<br> </br>
+<a href = "https://github.com/azevedolab/Docking/blob/main/SGDRegressorModels4CASF_2016_Ki.ipynb" title = "SGDRegressorModels4CASF_2016_Ki.ipynb (solution for code challenge)">SGDRegressorModels4CASF_2016_Ki.ipynb (solution for code challenge)</a>
+<br> </br>
 <br> </br>
 <h2>Editor: Dr. Walter F. de Azevedo, Jr.</h2>
 <img src="https://drive.usercontent.google.com/download?id=1ao9REI0b_bCbjDy2pu4k3Tbr35LCB5Qt&export=view&authuser=0" width=200 align=left title="Walter Filgueira de Azevedo, Jr. October 02, 2024. Alfenas-MG. Brazil."></a>
