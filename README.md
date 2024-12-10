@@ -51,6 +51,8 @@ As in the first edition, this book focuses on recent developments in docking sim
 <br> </br>
 <b>Chapter 05: Stochastic Gradient Descent Regression to Predict Enzyme Inhibition</b>
 <br> </br>
+<a href = "https://github.com/azevedolab/Docking/blob/main/BGDRegressor4RandomData.ipynb" title = "BGDRegressor4RandomData.ipynb">BGDRegressor4RandomData.ipynb</a>
+<br> </br>
 <a href = "https://github.com/azevedolab/Docking/blob/main/SGDRegressor4RandomData.ipynb" title = "SGDRegressor4RandomData.ipynb">SGDRegressor4RandomData.ipynb</a>
 <br> </br>
 <a href = "https://github.com/azevedolab/Docking/blob/main/SGDRegressor4CDK2_Ki.ipynb" title = "SGDRegressor4CDK2_Ki.ipynb">SGDRegressor4CDK2_Ki.ipynb</a>
