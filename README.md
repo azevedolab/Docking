@@ -49,7 +49,7 @@ As in the first edition, this book focuses on recent developments in docking sim
 <br> </br>
 <a href = "https://github.com/azevedolab/Docking/blob/main/ElasticNetRegressionModels4CASF_2016_Ki.ipynb" title = "ElasticNetRegressionModels4CASF_2016_Ki.ipynb (solution for code challenge)">ElasticNetRegressionModels4CASF_2016_Ki.ipynb (solution for code challenge)</a>
 <br> </br>
-<b>Chapter 05: Stochastic Gradient Descent Regression to Predict Enzyme Inhibition</b>
+<b>Chapter 05: Gradient Descent to Predict Enzyme Inhibition</b>
 <br> </br>
 <a href = "https://github.com/azevedolab/Docking/blob/main/BGDRegressor4RandomData.ipynb" title = "BGDRegressor4RandomData.ipynb">BGDRegressor4RandomData.ipynb</a>
 <br> </br>
