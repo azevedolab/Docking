@@ -67,6 +67,8 @@ As in the first edition, this book focuses on recent developments in docking sim
 <br> </br>
 <b>Chapter 07: Calculating Enzyme Inhibition with Random Forests</b>
 <br> </br>
+<a href = "https://github.com/azevedolab/Docking/blob/main/MVD4ML.ipynb" title = "MVD4ML.ipynb">MVD4ML.ipynb</a>
+<br> </br>
 <a href = "https://github.com/azevedolab/Docking/blob/main/SKReg4Model.ipynb" title = "SKReg4Model.ipynb">SKReg4Model.ipynb</a>
 <br> </br>
 <br> </br>
