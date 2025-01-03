@@ -65,6 +65,10 @@ As in the first edition, this book focuses on recent developments in docking sim
 <br> </br>
 <a href = "https://github.com/azevedolab/Docking/blob/main/SKReg4Model.ipynb" title = "SKReg4Model.ipynb">SKReg4Model.ipynb</a>
 <br> </br>
+<b>Chapter 07: Calculating Enzyme Inhibition with Random Forests</b>
+<br> </br>
+<a href = "https://github.com/azevedolab/Docking/blob/main/SKReg4Model.ipynb" title = "SKReg4Model.ipynb">SKReg4Model.ipynb</a>
+<br> </br>
 <br> </br>
 <h2>Editor: Dr. Walter F. de Azevedo, Jr.</h2>
 <img src="https://drive.usercontent.google.com/download?id=1ao9REI0b_bCbjDy2pu4k3Tbr35LCB5Qt&export=view&authuser=0" width=200 align=left title="Walter Filgueira de Azevedo, Jr. October 02, 2024. Alfenas-MG. Brazil."></a>
