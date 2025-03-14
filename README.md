@@ -77,6 +77,17 @@ As in the first edition, this book focuses on recent developments in docking sim
 <br> </br>
 <a href = "https://github.com/azevedolab/Docking/blob/main/SKReg4Model.ipynb" title = "SKReg4Model.ipynb">SKReg4Model.ipynb</a>
 <br> </br>
+<b>Chapter 09: Hands-On Docking with Molegro Virtual Docker</b>
+<br> </br>
+<a href = "https://github.com/azevedolab/Docking/blob/main/MVD4ML.ipynb" title = "MVD4ML.ipynb">MVD4ML.ipynb</a>
+<br> </br>
+<a href = "https://github.com/azevedolab/Docking/blob/main/SKReg4Model.ipynb" title = "SKReg4Model.ipynb">SKReg4Model.ipynb</a>
+<br> </br>
+<b>Chapter 10: Molegro Virtual Docker for Drug Discovery</b>
+<br> </br>
+<a href = "https://github.com/azevedolab/Docking/blob/main/MVD4ML.ipynb" title = "MVD4ML.ipynb">MVD4ML.ipynb</a>
+<br> </br>
+<a href = "https://github.com/azevedolab/Docking/blob/main/SKReg4Model.ipynb" title = "SKReg4Model.ipynb">SKReg4Model.ipynb</a>
 <br> </br>
 <br> </br>
 <h2>Editor: Dr. Walter F. de Azevedo, Jr.</h2>
