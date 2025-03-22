@@ -85,6 +85,8 @@ As in the first edition, this book focuses on recent developments in docking sim
 <br> </br>
 <b>Chapter 10: Molegro Virtual Docker for Docking Screens</b>
 <br> </br>
+<a href = "https://github.com/azevedolab/Docking/blob/main/csv4metrics.ipynb" title = "csv4metrics.ipynb">csv4metrics.ipynb</a>
+<br> </br>
 <a href = "https://github.com/azevedolab/Docking/blob/main/prepare_BindingDB.ipynb" title = "prepare_BindingDB.ipynb">prepare_BindingDB.ipynb</a>
 <br> </br>
 <a href = "https://github.com/azevedolab/Docking/blob/main/prepare_MVD.ipynb" title = "prepare_MVD.ipynb">prepare_MVD.ipynb</a>
