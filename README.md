@@ -1,6 +1,6 @@
 # Docking Screens for Drug Discovery (2nd Edition)
 <p>
-Here you will find links to Jupyter Notebooks discussed in the second edition of the book Docking Screens for Drug Discovery. This new edition concentrates on the development of computational models to predict binding affinity based on the atomic coordinates of protein-ligand complexes. All codes are Python snippets based on the program <a href = "https://github.com/azevedolab/sandres#readme" title = "SAnDReS 2.0: Development of machine-learning models to explore the scoring function space">SAnDReS 2.0</a> (<a href = "https://doi.org/10.1002/jcc.27449" title = "de Azevedo WF Jr, Quiroga R, Villarreal MA, da Silveira NJF, Bitencourt-Ferreira G, da Silva AD, Veit-Acosta M, Oliveira PR, Tutone M, Biziukova N, Poroikov V, Tarasova O, Baud S. SAnDReS 2.0: Development of machine-learning models to explore the scoring function space. J Comput Chem. 2024 Oct 15;45(27):2333-2346. doi: 10.1002/jcc.27449. Epub 2024 Jun 20. PMID: 38900052.">de Azevedo et al., 2024</a>). You will also find data about the statistical analysis of machine learning models developed using <a href = "https://github.com/azevedolab/sandres#readme" title = "SAnDReS 2.0: Development of machine-learning models to explore the scoring function space">SAnDReS 2.0</a>.
+Here you will find links to Jupyter Notebooks discussed in the second edition of the book Docking Screens for Drug Discovery. This new edition concentrates on the development of computational models to predict binding affinity based on the atomic coordinates of protein-ligand complexes. All codes are Python snippets based on the program <a href = "https://github.com/azevedolab/sandres#readme" title = "SAnDReS 2.0: Development of machine-learning models to explore the scoring function space">SAnDReS 2.0</a> (<a href = "https://doi.org/10.1002/jcc.27449" title = "De Azevedo WF Jr, Quiroga R, Villarreal MA, da Silveira NJF, Bitencourt-Ferreira G, da Silva AD, Veit-Acosta M, Oliveira PR, Tutone M, Biziukova N, Poroikov V, Tarasova O, Baud S. SAnDReS 2.0: Development of machine-learning models to explore the scoring function space. J Comput Chem. 2024 Oct 15;45(27):2333-2346. doi: 10.1002/jcc.27449. Epub 2024 Jun 20. PMID: 38900052.">de Azevedo et al., 2024</a>). You will also find data about the statistical analysis of machine learning models developed using <a href = "https://github.com/azevedolab/sandres#readme" title = "SAnDReS 2.0: Development of machine-learning models to explore the scoring function space">SAnDReS 2.0</a>.
 As in the first edition, this book focuses on recent developments in docking simulations for target proteins with chapters on specific techniques or applications for docking simulations, including the major docking programs. Additionally, the volume explores the scoring functions developed for the analysis of docking results and to predict ligand-binding affinity as well as the importance of docking simulations for the initial stages of drug discovery. Written for the highly successful Methods in Molecular Biology series, this collection presents the kind of detail and key implementation advice to ensure successful results. You find infomation about the first edition in the following link: <a href = "https://link.springer.com/book/10.1007/978-1-4939-9752-7" title = "Docking Screens for Drug Discovery (Editor: Walter Filgueira de Azevedo Jr.)">Docking Screens for Drug Discovery</a>.</p>
 <br> </br>
 <h2>Links to Jupyter Notebooks</h2>
@@ -85,37 +85,37 @@ As in the first edition, this book focuses on recent developments in docking sim
 <br> </br>
 <b>Chapter 10: Molegro Virtual Docker for Docking Screens</b>
 <br> </br>
-<a href = "https://github.com/azevedolab/Docking/blob/main/csv4metrics.ipynb" title = "csv4metrics.ipynb">csv4metrics.ipynb</a>
-<br> </br>
 <a href = "https://github.com/azevedolab/Docking/blob/main/prepare_BindingDB.ipynb" title = "prepare_BindingDB.ipynb">prepare_BindingDB.ipynb</a>
 <br> </br>
 <a href = "https://github.com/azevedolab/Docking/blob/main/prepare_MVD.ipynb" title = "prepare_MVD.ipynb">prepare_MVD.ipynb</a>
+<br> </br>
+<a href = "https://github.com/azevedolab/Docking/blob/main/csv4metrics.ipynb" title = "csv4metrics.ipynb">csv4metrics.ipynb</a>
 <br> </br>
 <b>Chapter 11: Molegro Data Modeller for Machine Learning</b>
 <br> </br>
-<a href = "https://github.com/azevedolab/Docking/blob/main/csv4metrics.ipynb" title = "csv4metrics.ipynb">csv4metrics.ipynb</a>
-<br> </br>
 <a href = "https://github.com/azevedolab/Docking/blob/main/prepare_BindingDB.ipynb" title = "prepare_BindingDB.ipynb">prepare_BindingDB.ipynb</a>
 <br> </br>
 <a href = "https://github.com/azevedolab/Docking/blob/main/prepare_MVD.ipynb" title = "prepare_MVD.ipynb">prepare_MVD.ipynb</a>
+<br> </br>
+<a href = "https://github.com/azevedolab/Docking/blob/main/csv4metrics.ipynb" title = "csv4metrics.ipynb">csv4metrics.ipynb</a>
 <br> </br>
 <b>Chapter 12: Neural Networks with Molegro Data Modeller</b>
 <br> </br>
-<a href = "https://github.com/azevedolab/Docking/blob/main/csv4metrics.ipynb" title = "csv4metrics.ipynb">csv4metrics.ipynb</a>
-<br> </br>
 <a href = "https://github.com/azevedolab/Docking/blob/main/prepare_BindingDB.ipynb" title = "prepare_BindingDB.ipynb">prepare_BindingDB.ipynb</a>
 <br> </br>
 <a href = "https://github.com/azevedolab/Docking/blob/main/prepare_MVD.ipynb" title = "prepare_MVD.ipynb">prepare_MVD.ipynb</a>
 <br> </br>
-<b>Chapter 13: AlphaFold for Docking Screens</b>
-<br> </br>
 <a href = "https://github.com/azevedolab/Docking/blob/main/csv4metrics.ipynb" title = "csv4metrics.ipynb">csv4metrics.ipynb</a>
+<br> </br>
+<b>Chapter 13: AlphaFold for Docking Screens</b>
 <br> </br>
 <a href = "https://github.com/azevedolab/Docking/blob/main/prepare_BindingDB.ipynb" title = "prepare_BindingDB.ipynb">prepare_BindingDB.ipynb</a>
 <br> </br>
 <a href = "https://github.com/azevedolab/Docking/blob/main/prepare_MVD.ipynb" title = "prepare_MVD.ipynb">prepare_MVD.ipynb</a>
 <br> </br>
 <a href = "https://github.com/azevedolab/Docking/blob/main/visualize_dataset.ipynb" title = "visualize_dataset.ipynb">visualize_dataset.ipynb</a>
+<br> </br>
+<a href = "https://github.com/azevedolab/Docking/blob/main/csv4metrics.ipynb" title = "csv4metrics.ipynb">csv4metrics.ipynb</a>
 <br> </br>
 <b>Chapter 14: Differential Evolution for Docking Simulations</b>
 <br> </br>
@@ -123,53 +123,53 @@ As in the first edition, this book focuses on recent developments in docking sim
 <br> </br>
 <b>Chapter 15: Machine Learning to Predict CDK4 Inhibition</b>
 <br> </br>
-<a href = "https://github.com/azevedolab/Docking/blob/main/csv4metrics.ipynb" title = "csv4metrics.ipynb">csv4metrics.ipynb</a>
-<br> </br>
 <a href = "https://github.com/azevedolab/Docking/blob/main/prepare_BindingDB.ipynb" title = "prepare_BindingDB.ipynb">prepare_BindingDB.ipynb</a>
 <br> </br>
 <a href = "https://github.com/azevedolab/Docking/blob/main/prepare_MVD.ipynb" title = "prepare_MVD.ipynb">prepare_MVD.ipynb</a>
 <br> </br>
 <a href = "https://github.com/azevedolab/Docking/blob/main/visualize_dataset.ipynb" title = "visualize_dataset.ipynb">visualize_dataset.ipynb</a>
+<br> </br>
+<a href = "https://github.com/azevedolab/Docking/blob/main/csv4metrics.ipynb" title = "csv4metrics.ipynb">csv4metrics.ipynb</a>
 <br> </br>
 <b>Chapter 16: Targeting CDK9 with Molegro Virtual Docker</b>
 <br> </br>
-<a href = "https://github.com/azevedolab/Docking/blob/main/csv4metrics.ipynb" title = "csv4metrics.ipynb">csv4metrics.ipynb</a>
-<br> </br>
 <a href = "https://github.com/azevedolab/Docking/blob/main/prepare_BindingDB.ipynb" title = "prepare_BindingDB.ipynb">prepare_BindingDB.ipynb</a>
 <br> </br>
 <a href = "https://github.com/azevedolab/Docking/blob/main/prepare_MVD.ipynb" title = "prepare_MVD.ipynb">prepare_MVD.ipynb</a>
 <br> </br>
 <a href = "https://github.com/azevedolab/Docking/blob/main/visualize_dataset.ipynb" title = "visualize_dataset.ipynb">visualize_dataset.ipynb</a>
+<br> </br>
+<a href = "https://github.com/azevedolab/Docking/blob/main/csv4metrics.ipynb" title = "csv4metrics.ipynb">csv4metrics.ipynb</a>
 <br> </br>
 <b>Chapter 17: CDK7 as a Target for Docking Screens</b>
 <br> </br>
-<a href = "https://github.com/azevedolab/Docking/blob/main/csv4metrics.ipynb" title = "csv4metrics.ipynb">csv4metrics.ipynb</a>
-<br> </br>
 <a href = "https://github.com/azevedolab/Docking/blob/main/prepare_BindingDB.ipynb" title = "prepare_BindingDB.ipynb">prepare_BindingDB.ipynb</a>
 <br> </br>
 <a href = "https://github.com/azevedolab/Docking/blob/main/prepare_MVD.ipynb" title = "prepare_MVD.ipynb">prepare_MVD.ipynb</a>
 <br> </br>
 <a href = "https://github.com/azevedolab/Docking/blob/main/visualize_dataset.ipynb" title = "visualize_dataset.ipynb">visualize_dataset.ipynb</a>
+<br> </br>
+<a href = "https://github.com/azevedolab/Docking/blob/main/csv4metrics.ipynb" title = "csv4metrics.ipynb">csv4metrics.ipynb</a>
 <br> </br>
 <b>Chapter 18: Molegro Data Modeller to Estimate CDK6 Inhibition</b>
 <br> </br>
-<a href = "https://github.com/azevedolab/Docking/blob/main/csv4metrics.ipynb" title = "csv4metrics.ipynb">csv4metrics.ipynb</a>
-<br> </br>
 <a href = "https://github.com/azevedolab/Docking/blob/main/prepare_BindingDB.ipynb" title = "prepare_BindingDB.ipynb">prepare_BindingDB.ipynb</a>
 <br> </br>
 <a href = "https://github.com/azevedolab/Docking/blob/main/prepare_MVD.ipynb" title = "prepare_MVD.ipynb">prepare_MVD.ipynb</a>
 <br> </br>
 <a href = "https://github.com/azevedolab/Docking/blob/main/visualize_dataset.ipynb" title = "visualize_dataset.ipynb">visualize_dataset.ipynb</a>
+<br> </br>
+<a href = "https://github.com/azevedolab/Docking/blob/main/csv4metrics.ipynb" title = "csv4metrics.ipynb">csv4metrics.ipynb</a>
 <br> </br>
 <b>Chapter 19: Neural Networks to Calculate CDK2 Inhibition</b>
 <br> </br>
-<a href = "https://github.com/azevedolab/Docking/blob/main/csv4metrics.ipynb" title = "csv4metrics.ipynb">csv4metrics.ipynb</a>
-<br> </br>
 <a href = "https://github.com/azevedolab/Docking/blob/main/prepare_BindingDB.ipynb" title = "prepare_BindingDB.ipynb">prepare_BindingDB.ipynb</a>
 <br> </br>
 <a href = "https://github.com/azevedolab/Docking/blob/main/prepare_MVD.ipynb" title = "prepare_MVD.ipynb">prepare_MVD.ipynb</a>
 <br> </br>
 <a href = "https://github.com/azevedolab/Docking/blob/main/visualize_dataset.ipynb" title = "visualize_dataset.ipynb">visualize_dataset.ipynb</a>
+<br> </br>
+<a href = "https://github.com/azevedolab/Docking/blob/main/csv4metrics.ipynb" title = "csv4metrics.ipynb">csv4metrics.ipynb</a>
 <br> </br>
 <b>Chapter 20: Tree-Based Methods to Predict Enzyme Inhibition</b>
 <br> </br>
