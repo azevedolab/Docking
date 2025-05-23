@@ -121,6 +121,66 @@ As in the first edition, this book focuses on recent developments in docking sim
 <br> </br>
 <a href = "https://github.com/azevedolab/Docking/blob/main/Darwin.ipynb" title = "Darwin.ipynb">Darwin.ipynb</a>
 <br> </br>
+<b>Chapter 15: Machine Learning to Predict CDK4 Inhibition</b>
+<br> </br>
+<a href = "https://github.com/azevedolab/Docking/blob/main/csv4metrics.ipynb" title = "csv4metrics.ipynb">csv4metrics.ipynb</a>
+<br> </br>
+<a href = "https://github.com/azevedolab/Docking/blob/main/prepare_BindingDB.ipynb" title = "prepare_BindingDB.ipynb">prepare_BindingDB.ipynb</a>
+<br> </br>
+<a href = "https://github.com/azevedolab/Docking/blob/main/prepare_MVD.ipynb" title = "prepare_MVD.ipynb">prepare_MVD.ipynb</a>
+<br> </br>
+<a href = "https://github.com/azevedolab/Docking/blob/main/visualize_dataset.ipynb" title = "visualize_dataset.ipynb">visualize_dataset.ipynb</a>
+<br> </br>
+<b>Chapter 16: Targeting CDK9 with Molegro Virtual Docker</b>
+<br> </br>
+<a href = "https://github.com/azevedolab/Docking/blob/main/csv4metrics.ipynb" title = "csv4metrics.ipynb">csv4metrics.ipynb</a>
+<br> </br>
+<a href = "https://github.com/azevedolab/Docking/blob/main/prepare_BindingDB.ipynb" title = "prepare_BindingDB.ipynb">prepare_BindingDB.ipynb</a>
+<br> </br>
+<a href = "https://github.com/azevedolab/Docking/blob/main/prepare_MVD.ipynb" title = "prepare_MVD.ipynb">prepare_MVD.ipynb</a>
+<br> </br>
+<a href = "https://github.com/azevedolab/Docking/blob/main/visualize_dataset.ipynb" title = "visualize_dataset.ipynb">visualize_dataset.ipynb</a>
+<br> </br>
+<b>Chapter 17: CDK7 as a Target for Docking Screens</b>
+<br> </br>
+<a href = "https://github.com/azevedolab/Docking/blob/main/csv4metrics.ipynb" title = "csv4metrics.ipynb">csv4metrics.ipynb</a>
+<br> </br>
+<a href = "https://github.com/azevedolab/Docking/blob/main/prepare_BindingDB.ipynb" title = "prepare_BindingDB.ipynb">prepare_BindingDB.ipynb</a>
+<br> </br>
+<a href = "https://github.com/azevedolab/Docking/blob/main/prepare_MVD.ipynb" title = "prepare_MVD.ipynb">prepare_MVD.ipynb</a>
+<br> </br>
+<a href = "https://github.com/azevedolab/Docking/blob/main/visualize_dataset.ipynb" title = "visualize_dataset.ipynb">visualize_dataset.ipynb</a>
+<br> </br>
+<b>Chapter 18: Molegro Data Modeller to Estimate CDK6 Inhibition</b>
+<br> </br>
+<a href = "https://github.com/azevedolab/Docking/blob/main/csv4metrics.ipynb" title = "csv4metrics.ipynb">csv4metrics.ipynb</a>
+<br> </br>
+<a href = "https://github.com/azevedolab/Docking/blob/main/prepare_BindingDB.ipynb" title = "prepare_BindingDB.ipynb">prepare_BindingDB.ipynb</a>
+<br> </br>
+<a href = "https://github.com/azevedolab/Docking/blob/main/prepare_MVD.ipynb" title = "prepare_MVD.ipynb">prepare_MVD.ipynb</a>
+<br> </br>
+<a href = "https://github.com/azevedolab/Docking/blob/main/visualize_dataset.ipynb" title = "visualize_dataset.ipynb">visualize_dataset.ipynb</a>
+<br> </br>
+<b>Chapter 19: Neural Networks to Calculate CDK2 Inhibition</b>
+<br> </br>
+<a href = "https://github.com/azevedolab/Docking/blob/main/csv4metrics.ipynb" title = "csv4metrics.ipynb">csv4metrics.ipynb</a>
+<br> </br>
+<a href = "https://github.com/azevedolab/Docking/blob/main/prepare_BindingDB.ipynb" title = "prepare_BindingDB.ipynb">prepare_BindingDB.ipynb</a>
+<br> </br>
+<a href = "https://github.com/azevedolab/Docking/blob/main/prepare_MVD.ipynb" title = "prepare_MVD.ipynb">prepare_MVD.ipynb</a>
+<br> </br>
+<a href = "https://github.com/azevedolab/Docking/blob/main/visualize_dataset.ipynb" title = "visualize_dataset.ipynb">visualize_dataset.ipynb</a>
+<br> </br>
+<b>Chapter 20: Tree-Based Methods to Predict Enzyme Inhibition</b>
+<br> </br>
+<a href = "https://github.com/azevedolab/Docking/blob/main/prepare_BindingDB.ipynb" title = "prepare_BindingDB.ipynb">prepare_BindingDB.ipynb</a>
+<br> </br>
+<a href = "https://github.com/azevedolab/Docking/blob/main/prepare_MVD.ipynb" title = "prepare_MVD.ipynb">prepare_MVD.ipynb</a>
+<br> </br>
+<a href = "https://github.com/azevedolab/Docking/blob/main/visualize_dataset.ipynb" title = "visualize_dataset.ipynb">visualize_dataset.ipynb</a>
+<br> </br>
+<a href = "https://github.com/azevedolab/Docking/blob/main/SKReg4Model.ipynb" title = "SKReg4Model.ipynb">SKReg4Model.ipynb</a>
+<br> </br>
 <br> </br>
 <h2>Editor: Dr. Walter F. de Azevedo, Jr.</h2>
 <img src="https://drive.usercontent.google.com/download?id=1ao9REI0b_bCbjDy2pu4k3Tbr35LCB5Qt&export=view&authuser=0" width=200 align=left title="Walter Filgueira de Azevedo, Jr. October 02, 2024. Alfenas-MG. Brazil."></a>
