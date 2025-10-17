@@ -9,7 +9,7 @@ As in the first edition, this book focuses on recent developments in docking sim
 <p>
 de Azevedo WF Jr, editor. Docking screens for drug discovery. 2nd ed. New York, NY: Springer; 2026. <a href = "https://doi.org/10.1007/978-1-0716-4949-7" title = "de Azevedo WF Jr, editor. Docking screens for drug discovery. 2nd ed. New York, NY: Springer; 2026.">DOI: 10.1007/978-1-0716-4949-7</a>
 </p>
-<a href="https://www.amazon.com.br/Docking-Screens-Drug-Discovery-2984/dp/1071649485/">
+<a href="https://www.amazon.com/Docking-Screens-Discovery-Methods-Molecular/dp/1071649485/">
 <img src="https://github.com/azevedolab/Docking/blob/main/amazon_logo_01.png" width=100 align=left title="de Azevedo WF Jr, editor. Docking screens for drug discovery. 2nd ed. New York, NY: Springer; 2026."></a>
 <br> </br>
 <br> </br>
@@ -97,7 +97,7 @@ da Silva AD, de Azevedo WF Jr. Gradient Descent to Predict Enzyme Inhibition. Me
 <p>
 da Silva AD, de Azevedo WF Jr. Decision Tree for Prediction of Binding Affinity. Methods Mol Biol. 2026;2984:81-95. <a href="https://doi.org/10.1007/978-1-0716-4949-7_6" title = "Link to DOI">doi: 10.1007/978-1-0716-4949-7_6</a>. PMID: 41075086. <a href="https://pubmed.ncbi.nlm.nih.gov/41075086/" title = "Link to PubMed">PubMed</a>
 </p>
-<b>Jupyter Notebooks</b>
+<b>Jupyter Notebook</b>
 <br> </br>
 <a href = "https://github.com/azevedolab/Docking/blob/main/SKReg4Model.ipynb" title = "SKReg4Model.ipynb">SKReg4Model.ipynb</a>
 <br> </br>
@@ -185,7 +185,7 @@ da Silva AD, de Azevedo WF Jr. AlphaFold for Docking Screens. Methods Mol Biol. 
 <p>
 da Silva AD, Russo S, González-Vergara E, de Azevedo WF Jr. Differential Evolution for Docking Simulations. Methods Mol Biol. 2026;2984:197-210. <a href="https://doi.org/10.1007/978-1-0716-4949-7_14" title = "Link to DOI">doi: 10.1007/978-1-0716-4949-7_14</a>. PMID: 41075094. <a href="https://pubmed.ncbi.nlm.nih.gov/41075094/" title = "Link to PubMed">PubMed</a>
 </p>
-<b>Jupyter Notebooks</b>
+<b>Jupyter Notebook</b>
 <br> </br>
 <a href = "https://github.com/azevedolab/Docking/blob/main/Darwin.ipynb" title = "Darwin.ipynb">Darwin.ipynb</a>
 <br> </br>
