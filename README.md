@@ -304,18 +304,14 @@ Umberto Eco. Source: <a href = "https://quoteinvestigator.com/2024/03/21/social-
 <br> </br>
 <H2>How to Cite SAnDReS 2.0</H2>
 <a href = "https://pubmed.ncbi.nlm.nih.gov/38900052/" title = "de Azevedo WF Jr, Quiroga R, Villarreal MA, da Silveira NJF, Bitencourt-Ferreira G, da Silva AD, Veit-Acosta M, Oliveira PR, Tutone M, Biziukova N, Poroikov V, Tarasova O, Baud S. SAnDReS 2.0: Development of machine-learning models to explore the scoring function space. J Comput Chem. 2024; 45(27): 2333–2346">
-<img src="https://drive.usercontent.google.com/download?id=15c74Ezhm8CEciT8ZTK1tpVR6v3cZzsXT&export=view&authuser=0" width=200 align=left title="De Azevedo WF Jr, Quiroga R, Villarreal MA, da Silveira NJF, Bitencourt-Ferreira G, da Silva AD, Veit-Acosta M, Oliveira PR, Tutone M, Biziukova N, Poroikov V, Tarasova O, Baud S. SAnDReS 2.0: Development of machine-learning models to explore the scoring function space. J Comput Chem. 2024; 45(27): 2333–2346"></a>
+</a>
 <p>
-De Azevedo WF Jr, Quiroga R, Villarreal MA, da Silveira NJF, Bitencourt-Ferreira G, da Silva AD, Veit-Acosta M, Oliveira PR, Tutone M, Biziukova N, Poroikov V, Tarasova O, Baud S. SAnDReS 2.0: Development of machine-learning models to explore the scoring function space. J Comput Chem. 2024; 45(27): 2333–2346. <a href = "https://pubmed.ncbi.nlm.nih.gov/38900052/" title = "De Azevedo WF Jr, Quiroga R, Villarreal MA, da Silveira NJF, Bitencourt-Ferreira G, da Silva AD, Veit-Acosta M, Oliveira PR, Tutone M, Biziukova N, Poroikov V, Tarasova O, Baud S. SAnDReS 2.0: Development of machine-learning models to explore the scoring function space. J Comput Chem. 2024; 45(27): 2333–2346.">PubMed</a>
+de Azevedo WF Jr, Quiroga R, Villarreal MA, da Silveira NJF, Bitencourt-Ferreira G, da Silva AD, Veit-Acosta M, Oliveira PR, Tutone M, Biziukova N, Poroikov V, Tarasova O, Baud S. SAnDReS 2.0: Development of machine-learning models to explore the scoring function space. J Comput Chem. 2024; 45(27): 2333–2346. <a href = "https://pubmed.ncbi.nlm.nih.gov/38900052/" title = "De Azevedo WF Jr, Quiroga R, Villarreal MA, da Silveira NJF, Bitencourt-Ferreira G, da Silva AD, Veit-Acosta M, Oliveira PR, Tutone M, Biziukova N, Poroikov V, Tarasova O, Baud S. SAnDReS 2.0: Development of machine-learning models to explore the scoring function space. J Comput Chem. 2024; 45(27): 2333–2346.">PubMed</a>
 </p>
-<br> </br>
-<br> </br>
-<br> </br>
-<br> </br>
 <br> </br>
 <H2>How to Cite Docking Screens for Drug Discovery (First Edition)</H2>
 <a href = "https://doi.org/10.1007/978-1-4939-9752-7" title = "De Azevedo WF Jr. Docking screens for drug discovery. 1st ed. de Azevedo WF Jr, editor. New York, NY: Humana Press; 2020.">
-<img src="https://github.com/azevedolab/Docking/blob/main/docking_screens_1st_ed_cover.png" width=200 align=left title="De Azevedo WF Jr. Docking screens for drug discovery. 1st ed. de Azevedo WF Jr, editor. New York, NY: Humana Press; 2020."></a>
+</a>
 <p>
-De Azevedo WF Jr. Docking screens for drug discovery. 1st ed. de Azevedo WF Jr, editor. New York, NY: Humana Press; 2020. <a href = "https://doi.org/10.1007/978-1-4939-9752-7" title = "De Azevedo WF Jr. Docking screens for drug discovery. 1st ed. de Azevedo WF Jr, editor. New York, NY: Humana Press; 2020.">DOI: 10.1007/978-1-4939-9752-7</a>
+de Azevedo WF Jr. Docking screens for drug discovery. 1st ed. de Azevedo WF Jr, editor. New York, NY: Humana Press; 2020. <a href = "https://doi.org/10.1007/978-1-4939-9752-7" title = "De Azevedo WF Jr. Docking screens for drug discovery. 1st ed. de Azevedo WF Jr, editor. New York, NY: Humana Press; 2020.">DOI: 10.1007/978-1-4939-9752-7</a>
 </p>
