@@ -20,15 +20,15 @@ da Silva AD, Veit-Acosta M, Tarasova O, de Azevedo WF Jr. A Primer on SAnDReS 2.
 </p>
 <b>Jupyter Notebooks</b>
 <br> </br>
-<a href = "https://github.com/azevedolab/Docking/blob/main/LinearRegression4RandomData.ipynb" title = "LinearRegression4RandomData.ipynb">LinearRegression4RandomData.ipynb</a>
+<a href = "https://github.com/azevedolab/Docking/blob/main/src/LinearRegression4RandomData.ipynb" title = "LinearRegression4RandomData.ipynb">LinearRegression4RandomData.ipynb</a>
 <br> </br>
-<a href = "https://github.com/azevedolab/Docking/blob/main/LinearRegression4CDK2_Ki.ipynb" title = "LinearRegression4CDK2_Ki.ipynb">LinearRegression4CDK2_Ki.ipynb</a>
+<a href = "https://github.com/azevedolab/Docking/blob/main/src/LinearRegression4CDK2_Ki.ipynb" title = "LinearRegression4CDK2_Ki.ipynb">LinearRegression4CDK2_Ki.ipynb</a>
 <br> </br>
-<a href = "https://github.com/azevedolab/Docking/blob/main/LinearRegression4CASF_2016_Ki.ipynb" title = "LinearRegression4CASF-2016_Ki.ipynb (solution of code exercise 1)">LinearRegression4CASF-2016_Ki.ipynb (solution of code exercise 1)</a>
+<a href = "https://github.com/azevedolab/Docking/blob/main/src/LinearRegression4CASF_2016_Ki.ipynb" title = "LinearRegression4CASF-2016_Ki.ipynb (solution of code exercise 1)">LinearRegression4CASF-2016_Ki.ipynb (solution of code exercise 1)</a>
 <br> </br>
-<a href = "https://github.com/azevedolab/Docking/blob/main/LinearRegression4CDK19_IC50.ipynb" title = "LinearRegression4CDK19_IC50.ipynb (solution of code exercise 2)">LinearRegression4CDK19_IC50.ipynb (solution of code exercise 2)</a>
+<a href = "https://github.com/azevedolab/Docking/blob/main/src/LinearRegression4CDK19_IC50.ipynb" title = "LinearRegression4CDK19_IC50.ipynb (solution of code exercise 2)">LinearRegression4CDK19_IC50.ipynb (solution of code exercise 2)</a>
 <br> </br>
-<a href = "https://github.com/azevedolab/Docking/blob/main/LinearRegressionMultipleModels4CDK2_Ki.ipynb" title = "LinearRegressionMultipleModels4CDK2_Ki.ipynb (solution of code challenge)">LinearRegressionMultipleModels4CDK2_Ki.ipynb (solution of code challenge)</a>
+<a href = "https://github.com/azevedolab/Docking/blob/main/src/LinearRegressionMultipleModels4CDK2_Ki.ipynb" title = "LinearRegressionMultipleModels4CDK2_Ki.ipynb (solution of code challenge)">LinearRegressionMultipleModels4CDK2_Ki.ipynb (solution of code challenge)</a>
 <br> </br>
 <h3>Chapter 02: Exploring the Scoring Function Space with Lasso Regression</h3>
 <p>
@@ -36,13 +36,13 @@ da Silva AD, Baud S, de Azevedo WF Jr. Exploring the Scoring Function Space with
 </p>
 <b>Jupyter Notebooks</b>
 <br> </br>
-<a href = "https://github.com/azevedolab/Docking/blob/main/Lasso4RandomData.ipynb" title = "Lasso4RandomData.ipynb">Lasso4RandomData.ipynb</a>
+<a href = "https://github.com/azevedolab/Docking/blob/main/src/Lasso4RandomData.ipynb" title = "Lasso4RandomData.ipynb">Lasso4RandomData.ipynb</a>
 <br> </br>
-<a href = "https://github.com/azevedolab/Docking/blob/main/Lasso4CDK2_Ki.ipynb" title = "Lasso4CDK2_Ki.ipynb">Lasso4CDK2_Ki.ipynb</a>
+<a href = "https://github.com/azevedolab/Docking/blob/main/src/Lasso4CDK2_Ki.ipynb" title = "Lasso4CDK2_Ki.ipynb">Lasso4CDK2_Ki.ipynb</a>
 <br> </br>
-<a href = "https://github.com/azevedolab/Docking/blob/main/Lasso4CASF_2016_Ki.ipynb" title = "Lasso4CASF_2016_Ki.ipynb (solution of code exercises 1 and 2)">Lasso4CASF_2016_Ki.ipynb (solution of code exercises 1 and 2)</a>
+<a href = "https://github.com/azevedolab/Docking/blob/main/src/Lasso4CASF_2016_Ki.ipynb" title = "Lasso4CASF_2016_Ki.ipynb (solution of code exercises 1 and 2)">Lasso4CASF_2016_Ki.ipynb (solution of code exercises 1 and 2)</a>
 <br> </br>
-<a href = "https://github.com/azevedolab/Docking/blob/main/LassoRegressionMultipleModels4CASF_2016_Ki.ipynb" title = "LassoRegressionMultipleModels4CASF_2016_Ki.ipynb (solution of code challenge)">LassoRegressionMultipleModels4CASF_2016_Ki.ipynb (solution of code challenge)</a>
+<a href = "https://github.com/azevedolab/Docking/blob/main/src/LassoRegressionMultipleModels4CASF_2016_Ki.ipynb" title = "LassoRegressionMultipleModels4CASF_2016_Ki.ipynb (solution of code challenge)">LassoRegressionMultipleModels4CASF_2016_Ki.ipynb (solution of code challenge)</a>
 <br> </br>
 <h3>Chapter 03: Combining MVD and Ridge Regression to Predict CDK2 Inhibition</h3>
 <p>
@@ -50,15 +50,15 @@ Pehlivan SN, da Silva AD, de Azevedo WF Jr. Combining MVD and Ridge Method to Pr
 </p>
 <b>Jupyter Notebooks</b>
 <br> </br>
-<a href = "https://github.com/azevedolab/Docking/blob/main/Ridge4RandomData.ipynb" title = "Ridge4RandomData.ipynb">Ridge4RandomData.ipynb</a>
+<a href = "https://github.com/azevedolab/Docking/blob/main/src/Ridge4RandomData.ipynb" title = "Ridge4RandomData.ipynb">Ridge4RandomData.ipynb</a>
 <br> </br>
-<a href = "https://github.com/azevedolab/Docking/blob/main/Ridge_CDK2_Ki_MVD.ipynb" title = "Ridge_CDK2_Ki_MVD.ipynb">Ridge_CDK2_Ki_MVD.ipynb</a>
+<a href = "https://github.com/azevedolab/Docking/blob/main/src/Ridge_CDK2_Ki_MVD.ipynb" title = "Ridge_CDK2_Ki_MVD.ipynb">Ridge_CDK2_Ki_MVD.ipynb</a>
 <br> </br>
-<a href = "https://github.com/azevedolab/Docking/blob/main/RidgeRegressionMultipleAlphaModels4CDK2_Ki_MVD.ipynb" title = "RidgeRegressionMultipleAlphaModels4CDK2_Ki_MVD.ipynb (solution of code exercise 2)">RidgeRegressionMultipleAlphaModels4CDK2_Ki_MVD.ipynb (solution of code exercise 2)</a>
+<a href = "https://github.com/azevedolab/Docking/blob/main/src/RidgeRegressionMultipleAlphaModels4CDK2_Ki_MVD.ipynb" title = "RidgeRegressionMultipleAlphaModels4CDK2_Ki_MVD.ipynb (solution of code exercise 2)">RidgeRegressionMultipleAlphaModels4CDK2_Ki_MVD.ipynb (solution of code exercise 2)</a>
 <br> </br>
-<a href = "https://github.com/azevedolab/Docking/blob/main/Ridge_CDK2_Ki_Vina.ipynb" title = "Ridge_CDK2_Ki_Vina.ipynb (solution of code exercise 3)">Ridge_CDK2_Ki_Vina.ipynb (solution of code exercise 3)</a>
+<a href = "https://github.com/azevedolab/Docking/blob/main/src/Ridge_CDK2_Ki_Vina.ipynb" title = "Ridge_CDK2_Ki_Vina.ipynb (solution of code exercise 3)">Ridge_CDK2_Ki_Vina.ipynb (solution of code exercise 3)</a>
 <br> </br>
-<a href = "https://github.com/azevedolab/Docking/blob/main/RidgeRegressionMultipleModels4CDK2_Ki_MVD.ipynb" title = "RidgeRegressionMultipleModels4CDK2_Ki_MVD.ipynb (solution of code challenge)">RidgeRegressionMultipleModels4CDK2_Ki_MVD.ipynb (solution of code challenge)</a>
+<a href = "https://github.com/azevedolab/Docking/blob/main/src/RidgeRegressionMultipleModels4CDK2_Ki_MVD.ipynb" title = "RidgeRegressionMultipleModels4CDK2_Ki_MVD.ipynb (solution of code challenge)">RidgeRegressionMultipleModels4CDK2_Ki_MVD.ipynb (solution of code challenge)</a>
 <br> </br>
 <h3>Chapter 04: Elastic Net Regression to Predict CDK2 Inhibition</h3>
 <p>
@@ -66,13 +66,13 @@ da Silva AD, de Azevedo WF Jr. Elastic Net Regression to Predict CDK2 Inhibition
 </p>
 <b>Jupyter Notebooks</b>
 <br> </br>
-<a href = "https://github.com/azevedolab/Docking/blob/main/ElasticNet4RandomData.ipynb" title = "ElasticNet4RandomData.ipynb">ElasticNet4RandomData.ipynb</a>
+<a href = "https://github.com/azevedolab/Docking/blob/main/src/ElasticNet4RandomData.ipynb" title = "ElasticNet4RandomData.ipynb">ElasticNet4RandomData.ipynb</a>
 <br> </br>
-<a href = "https://github.com/azevedolab/Docking/blob/main/ElasticNet4CDK2_Ki.ipynb" title = "ElasticNet4CDK2_Ki.ipynb">ElasticNet4CDK2_Ki.ipynb</a>
+<a href = "https://github.com/azevedolab/Docking/blob/main/src/ElasticNet4CDK2_Ki.ipynb" title = "ElasticNet4CDK2_Ki.ipynb">ElasticNet4CDK2_Ki.ipynb</a>
 <br> </br>
-<a href = "https://github.com/azevedolab/Docking/blob/main/ElasticNet4CASF_2016_Ki.ipynb" title = "ElasticNet4CASF_2016_Ki.ipynb (solution for code exercises 1 and 2)">ElasticNet4CASF_2016_Ki.ipynb (solution for code exercises 1 and 2)</a>
+<a href = "https://github.com/azevedolab/Docking/blob/main/src/ElasticNet4CASF_2016_Ki.ipynb" title = "ElasticNet4CASF_2016_Ki.ipynb (solution for code exercises 1 and 2)">ElasticNet4CASF_2016_Ki.ipynb (solution for code exercises 1 and 2)</a>
 <br> </br>
-<a href = "https://github.com/azevedolab/Docking/blob/main/ElasticNetRegressionModels4CASF_2016_Ki.ipynb" title = "ElasticNetRegressionModels4CASF_2016_Ki.ipynb (solution for code challenge)">ElasticNetRegressionModels4CASF_2016_Ki.ipynb (solution for code challenge)</a>
+<a href = "https://github.com/azevedolab/Docking/blob/main/src/ElasticNetRegressionModels4CASF_2016_Ki.ipynb" title = "ElasticNetRegressionModels4CASF_2016_Ki.ipynb (solution for code challenge)">ElasticNetRegressionModels4CASF_2016_Ki.ipynb (solution for code challenge)</a>
 <br> </br>
 <h3>Chapter 05: Gradient Descent to Predict Enzyme Inhibition</h3>
 <p>
@@ -80,15 +80,15 @@ da Silva AD, de Azevedo WF Jr. Gradient Descent to Predict Enzyme Inhibition. Me
 </p>
 <b>Jupyter Notebooks</b>
 <br> </br>
-<a href = "https://github.com/azevedolab/Docking/blob/main/BGDRegressor4RandomData.ipynb" title = "BGDRegressor4RandomData.ipynb">BGDRegressor4RandomData.ipynb</a>
+<a href = "https://github.com/azevedolab/Docking/blob/main/src/BGDRegressor4RandomData.ipynb" title = "BGDRegressor4RandomData.ipynb">BGDRegressor4RandomData.ipynb</a>
 <br> </br>
-<a href = "https://github.com/azevedolab/Docking/blob/main/SGDRegressor4RandomData.ipynb" title = "SGDRegressor4RandomData.ipynb">SGDRegressor4RandomData.ipynb</a>
+<a href = "https://github.com/azevedolab/Docking/blob/main/src/SGDRegressor4RandomData.ipynb" title = "SGDRegressor4RandomData.ipynb">SGDRegressor4RandomData.ipynb</a>
 <br> </br>
-<a href = "https://github.com/azevedolab/Docking/blob/main/SGDRegressor4CDK2_Ki.ipynb" title = "SGDRegressor4CDK2_Ki.ipynb">SGDRegressor4CDK2_Ki.ipynb</a>
+<a href = "https://github.com/azevedolab/Docking/blob/main/src/SGDRegressor4CDK2_Ki.ipynb" title = "SGDRegressor4CDK2_Ki.ipynb">SGDRegressor4CDK2_Ki.ipynb</a>
 <br> </br>
-<a href = "https://github.com/azevedolab/Docking/blob/main/SGDRegressor4CASF_2016_Ki.ipynb" title = "SGDRegressor4CASF_2016_Ki.ipynb (solution for code exercises 1 and 2)">SGDRegressor4CASF_2016_Ki.ipynb (solution for code exercises 1 and 2)</a>
+<a href = "https://github.com/azevedolab/Docking/blob/main/src/SGDRegressor4CASF_2016_Ki.ipynb" title = "SGDRegressor4CASF_2016_Ki.ipynb (solution for code exercises 1 and 2)">SGDRegressor4CASF_2016_Ki.ipynb (solution for code exercises 1 and 2)</a>
 <br> </br>
-<a href = "https://github.com/azevedolab/Docking/blob/main/SGDRegressorModels4CASF_2016_Ki.ipynb" title = "SGDRegressorModels4CASF_2016_Ki.ipynb (solution for code challenge)">SGDRegressorModels4CASF_2016_Ki.ipynb (solution for code challenge)</a>
+<a href = "https://github.com/azevedolab/Docking/blob/main/src/SGDRegressorModels4CASF_2016_Ki.ipynb" title = "SGDRegressorModels4CASF_2016_Ki.ipynb (solution for code challenge)">SGDRegressorModels4CASF_2016_Ki.ipynb (solution for code challenge)</a>
 <br> </br>
 <h3>Chapter 06: Decision Tree for Prediction of Binding Affinity</h3>
 <p>
@@ -96,7 +96,7 @@ da Silva AD, de Azevedo WF Jr. Decision Tree for Prediction of Binding Affinity.
 </p>
 <b>Jupyter Notebook</b>
 <br> </br>
-<a href = "https://github.com/azevedolab/Docking/blob/main/SKReg4Model.ipynb" title = "SKReg4Model.ipynb">SKReg4Model.ipynb</a>
+<a href = "https://github.com/azevedolab/Docking/blob/main/src/SKReg4Model.ipynb" title = "SKReg4Model.ipynb">SKReg4Model.ipynb</a>
 <br> </br>
 <h3>Chapter 07: Calculating Enzyme Inhibition with Random Forests</h3>
 <p>
@@ -104,9 +104,9 @@ da Silva AD, de Azevedo WF Jr. Calculating Enzyme Inhibition with Random Forests
 </p>
 <b>Jupyter Notebooks</b>
 <br> </br>
-<a href = "https://github.com/azevedolab/Docking/blob/main/MVD4ML.ipynb" title = "MVD4ML.ipynb">MVD4ML.ipynb</a>
+<a href = "https://github.com/azevedolab/Docking/blob/main/src/MVD4ML.ipynb" title = "MVD4ML.ipynb">MVD4ML.ipynb</a>
 <br> </br>
-<a href = "https://github.com/azevedolab/Docking/blob/main/SKReg4Model.ipynb" title = "SKReg4Model.ipynb">SKReg4Model.ipynb</a>
+<a href = "https://github.com/azevedolab/Docking/blob/main/src/SKReg4Model.ipynb" title = "SKReg4Model.ipynb">SKReg4Model.ipynb</a>
 <br> </br>
 <h3>Chapter 08: Extremely Randomized Trees to Determine Binding Affinity</h3>
 <p>
@@ -114,9 +114,9 @@ da Silva AD, de Azevedo WF Jr. Extremely Randomized Trees to Determine Binding A
 </p>
 <b>Jupyter Notebooks</b>
 <br> </br>
-<a href = "https://github.com/azevedolab/Docking/blob/main/MVD4ML.ipynb" title = "MVD4ML.ipynb">MVD4ML.ipynb</a>
+<a href = "https://github.com/azevedolab/Docking/blob/main/src/MVD4ML.ipynb" title = "MVD4ML.ipynb">MVD4ML.ipynb</a>
 <br> </br>
-<a href = "https://github.com/azevedolab/Docking/blob/main/SKReg4Model.ipynb" title = "SKReg4Model.ipynb">SKReg4Model.ipynb</a>
+<a href = "https://github.com/azevedolab/Docking/blob/main/src/SKReg4Model.ipynb" title = "SKReg4Model.ipynb">SKReg4Model.ipynb</a>
 <br> </br>
 <h3>Chapter 09: Hands-On Docking with Molegro Virtual Docker</h3>
 <p>
@@ -124,9 +124,9 @@ Dere D, Pehlivan SN, da Silva AD, de Azevedo WF Jr. Hands-On Docking with Molegr
 </p>
 <b>Jupyter Notebooks</b>
 <br> </br>
-<a href = "https://github.com/azevedolab/Docking/blob/main/MVD4ML.ipynb" title = "MVD4ML.ipynb">MVD4ML.ipynb</a>
+<a href = "https://github.com/azevedolab/Docking/blob/main/src/MVD4ML.ipynb" title = "MVD4ML.ipynb">MVD4ML.ipynb</a>
 <br> </br>
-<a href = "https://github.com/azevedolab/Docking/blob/main/SKReg4Model.ipynb" title = "SKReg4Model.ipynb">SKReg4Model.ipynb</a>
+<a href = "https://github.com/azevedolab/Docking/blob/main/src/SKReg4Model.ipynb" title = "SKReg4Model.ipynb">SKReg4Model.ipynb</a>
 <br> </br>
 <h3>Chapter 10: Molegro Virtual Docker for Docking Screens</h3>
 <p>
@@ -134,11 +134,11 @@ Oliveira JMV, da Silva AD, Soares AMDS, de Azevedo WF Jr. Molegro Virtual Docker
 </p>
 <b>Jupyter Notebooks</b>
 <br> </br>
-<a href = "https://github.com/azevedolab/Docking/blob/main/prepare_BindingDB.ipynb" title = "prepare_BindingDB.ipynb">prepare_BindingDB.ipynb</a>
+<a href = "https://github.com/azevedolab/Docking/blob/main/src/prepare_BindingDB.ipynb" title = "prepare_BindingDB.ipynb">prepare_BindingDB.ipynb</a>
 <br> </br>
-<a href = "https://github.com/azevedolab/Docking/blob/main/prepare_MVD.ipynb" title = "prepare_MVD.ipynb">prepare_MVD.ipynb</a>
+<a href = "https://github.com/azevedolab/Docking/blob/main/src/prepare_MVD.ipynb" title = "prepare_MVD.ipynb">prepare_MVD.ipynb</a>
 <br> </br>
-<a href = "https://github.com/azevedolab/Docking/blob/main/csv4metrics.ipynb" title = "csv4metrics.ipynb">csv4metrics.ipynb</a>
+<a href = "https://github.com/azevedolab/Docking/blob/main/src/csv4metrics.ipynb" title = "csv4metrics.ipynb">csv4metrics.ipynb</a>
 <br> </br>
 <h3>Chapter 11: Molegro Data Modeller for Machine Learning</h3>
 <p>
@@ -146,11 +146,11 @@ da Silva AD, da Silveira NJF, Oliveira PR, de Azevedo WF Jr. Molegro Data Modell
 </p>
 <b>Jupyter Notebooks</b>
 <br> </br>
-<a href = "https://github.com/azevedolab/Docking/blob/main/prepare_BindingDB.ipynb" title = "prepare_BindingDB.ipynb">prepare_BindingDB.ipynb</a>
+<a href = "https://github.com/azevedolab/Docking/blob/main/src/prepare_BindingDB.ipynb" title = "prepare_BindingDB.ipynb">prepare_BindingDB.ipynb</a>
 <br> </br>
-<a href = "https://github.com/azevedolab/Docking/blob/main/prepare_MVD.ipynb" title = "prepare_MVD.ipynb">prepare_MVD.ipynb</a>
+<a href = "https://github.com/azevedolab/Docking/blob/main/src/prepare_MVD.ipynb" title = "prepare_MVD.ipynb">prepare_MVD.ipynb</a>
 <br> </br>
-<a href = "https://github.com/azevedolab/Docking/blob/main/csv4metrics.ipynb" title = "csv4metrics.ipynb">csv4metrics.ipynb</a>
+<a href = "https://github.com/azevedolab/Docking/blob/main/src/csv4metrics.ipynb" title = "csv4metrics.ipynb">csv4metrics.ipynb</a>
 <br> </br>
 <h3>Chapter 12: Neural Networks with Molegro Data Modeller</h3>
 <p>
@@ -158,11 +158,11 @@ da Silva AD, de Azevedo WF Jr. Neural Networks with Molegro Data Modeller. Metho
 </p>
 <b>Jupyter Notebooks</b>
 <br> </br>
-<a href = "https://github.com/azevedolab/Docking/blob/main/prepare_BindingDB.ipynb" title = "prepare_BindingDB.ipynb">prepare_BindingDB.ipynb</a>
+<a href = "https://github.com/azevedolab/Docking/blob/main/src/prepare_BindingDB.ipynb" title = "prepare_BindingDB.ipynb">prepare_BindingDB.ipynb</a>
 <br> </br>
-<a href = "https://github.com/azevedolab/Docking/blob/main/prepare_MVD.ipynb" title = "prepare_MVD.ipynb">prepare_MVD.ipynb</a>
+<a href = "https://github.com/azevedolab/Docking/blob/main/src/prepare_MVD.ipynb" title = "prepare_MVD.ipynb">prepare_MVD.ipynb</a>
 <br> </br>
-<a href = "https://github.com/azevedolab/Docking/blob/main/csv4metrics.ipynb" title = "csv4metrics.ipynb">csv4metrics.ipynb</a>
+<a href = "https://github.com/azevedolab/Docking/blob/main/src/csv4metrics.ipynb" title = "csv4metrics.ipynb">csv4metrics.ipynb</a>
 <br> </br>
 <h3>Chapter 13: AlphaFold for Docking Screens</h3>
 <p>
@@ -170,13 +170,13 @@ da Silva AD, de Azevedo WF Jr. AlphaFold for Docking Screens. Methods Mol Biol. 
 </p>
 <b>Jupyter Notebooks</b>
 <br> </br>
-<a href = "https://github.com/azevedolab/Docking/blob/main/prepare_BindingDB.ipynb" title = "prepare_BindingDB.ipynb">prepare_BindingDB.ipynb</a>
+<a href = "https://github.com/azevedolab/Docking/blob/main/src/prepare_BindingDB.ipynb" title = "prepare_BindingDB.ipynb">prepare_BindingDB.ipynb</a>
 <br> </br>
-<a href = "https://github.com/azevedolab/Docking/blob/main/prepare_MVD.ipynb" title = "prepare_MVD.ipynb">prepare_MVD.ipynb</a>
+<a href = "https://github.com/azevedolab/Docking/blob/main/src/prepare_MVD.ipynb" title = "prepare_MVD.ipynb">prepare_MVD.ipynb</a>
 <br> </br>
-<a href = "https://github.com/azevedolab/Docking/blob/main/visualize_dataset.ipynb" title = "visualize_dataset.ipynb">visualize_dataset.ipynb</a>
+<a href = "https://github.com/azevedolab/Docking/blob/main/src/visualize_dataset.ipynb" title = "visualize_dataset.ipynb">visualize_dataset.ipynb</a>
 <br> </br>
-<a href = "https://github.com/azevedolab/Docking/blob/main/csv4metrics.ipynb" title = "csv4metrics.ipynb">csv4metrics.ipynb</a>
+<a href = "https://github.com/azevedolab/Docking/blob/main/src/csv4metrics.ipynb" title = "csv4metrics.ipynb">csv4metrics.ipynb</a>
 <br> </br>
 <h3>Chapter 14: Differential Evolution for Docking Simulations</h3>
 <p>
@@ -184,7 +184,7 @@ da Silva AD, Russo S, González-Vergara E, de Azevedo WF Jr. Differential Evolut
 </p>
 <b>Jupyter Notebook</b>
 <br> </br>
-<a href = "https://github.com/azevedolab/Docking/blob/main/Darwin.ipynb" title = "Darwin.ipynb">Darwin.ipynb</a>
+<a href = "https://github.com/azevedolab/Docking/blob/main/src/Darwin.ipynb" title = "Darwin.ipynb">Darwin.ipynb</a>
 <br> </br>
 <h3>Chapter 15: Machine Learning to Predict CDK4 Inhibition</h3>
 <p>
@@ -192,13 +192,13 @@ de Azevedo WF Jr. Machine Learning to Predict CDK4 Inhibition. Methods Mol Biol.
 </p>
 <b>Jupyter Notebooks</b>
 <br> </br>
-<a href = "https://github.com/azevedolab/Docking/blob/main/prepare_BindingDB.ipynb" title = "prepare_BindingDB.ipynb">prepare_BindingDB.ipynb</a>
+<a href = "https://github.com/azevedolab/Docking/blob/main/src/prepare_BindingDB.ipynb" title = "prepare_BindingDB.ipynb">prepare_BindingDB.ipynb</a>
 <br> </br>
-<a href = "https://github.com/azevedolab/Docking/blob/main/prepare_MVD.ipynb" title = "prepare_MVD.ipynb">prepare_MVD.ipynb</a>
+<a href = "https://github.com/azevedolab/Docking/blob/main/src/prepare_MVD.ipynb" title = "prepare_MVD.ipynb">prepare_MVD.ipynb</a>
 <br> </br>
-<a href = "https://github.com/azevedolab/Docking/blob/main/visualize_dataset.ipynb" title = "visualize_dataset.ipynb">visualize_dataset.ipynb</a>
+<a href = "https://github.com/azevedolab/Docking/blob/main/src/visualize_dataset.ipynb" title = "visualize_dataset.ipynb">visualize_dataset.ipynb</a>
 <br> </br>
-<a href = "https://github.com/azevedolab/Docking/blob/main/csv4metrics.ipynb" title = "csv4metrics.ipynb">csv4metrics.ipynb</a>
+<a href = "https://github.com/azevedolab/Docking/blob/main/src/csv4metrics.ipynb" title = "csv4metrics.ipynb">csv4metrics.ipynb</a>
 <br> </br>
 <h3>Chapter 16: Targeting CDK9 with Molegro Virtual Docker</h3>
 <p>
@@ -206,13 +206,13 @@ de Azevedo WF Jr. Targeting CDK9 with Molegro Virtual Docker. Methods Mol Biol. 
 </p>
 <b>Jupyter Notebooks</b>
 <br> </br>
-<a href = "https://github.com/azevedolab/Docking/blob/main/prepare_BindingDB.ipynb" title = "prepare_BindingDB.ipynb">prepare_BindingDB.ipynb</a>
+<a href = "https://github.com/azevedolab/Docking/blob/main/src/prepare_BindingDB.ipynb" title = "prepare_BindingDB.ipynb">prepare_BindingDB.ipynb</a>
 <br> </br>
-<a href = "https://github.com/azevedolab/Docking/blob/main/prepare_MVD.ipynb" title = "prepare_MVD.ipynb">prepare_MVD.ipynb</a>
+<a href = "https://github.com/azevedolab/Docking/blob/main/src/prepare_MVD.ipynb" title = "prepare_MVD.ipynb">prepare_MVD.ipynb</a>
 <br> </br>
-<a href = "https://github.com/azevedolab/Docking/blob/main/visualize_dataset.ipynb" title = "visualize_dataset.ipynb">visualize_dataset.ipynb</a>
+<a href = "https://github.com/azevedolab/Docking/blob/main/src/visualize_dataset.ipynb" title = "visualize_dataset.ipynb">visualize_dataset.ipynb</a>
 <br> </br>
-<a href = "https://github.com/azevedolab/Docking/blob/main/csv4metrics.ipynb" title = "csv4metrics.ipynb">csv4metrics.ipynb</a>
+<a href = "https://github.com/azevedolab/Docking/blob/main/src/csv4metrics.ipynb" title = "csv4metrics.ipynb">csv4metrics.ipynb</a>
 <br> </br>
 <h3>Chapter 17: CDK7 as a Target for Docking Screens</h3>
 <p>
@@ -220,13 +220,13 @@ de Azevedo WF Jr. CDK7 as a Target for Docking Screens. Methods Mol Biol. 2026;2
 </p>
 <b>Jupyter Notebooks</b>
 <br> </br>
-<a href = "https://github.com/azevedolab/Docking/blob/main/prepare_BindingDB.ipynb" title = "prepare_BindingDB.ipynb">prepare_BindingDB.ipynb</a>
+<a href = "https://github.com/azevedolab/Docking/blob/main/src/prepare_BindingDB.ipynb" title = "prepare_BindingDB.ipynb">prepare_BindingDB.ipynb</a>
 <br> </br>
-<a href = "https://github.com/azevedolab/Docking/blob/main/prepare_MVD.ipynb" title = "prepare_MVD.ipynb">prepare_MVD.ipynb</a>
+<a href = "https://github.com/azevedolab/Docking/blob/main/src/prepare_MVD.ipynb" title = "prepare_MVD.ipynb">prepare_MVD.ipynb</a>
 <br> </br>
-<a href = "https://github.com/azevedolab/Docking/blob/main/visualize_dataset.ipynb" title = "visualize_dataset.ipynb">visualize_dataset.ipynb</a>
+<a href = "https://github.com/azevedolab/Docking/blob/main/src/visualize_dataset.ipynb" title = "visualize_dataset.ipynb">visualize_dataset.ipynb</a>
 <br> </br>
-<a href = "https://github.com/azevedolab/Docking/blob/main/csv4metrics.ipynb" title = "csv4metrics.ipynb">csv4metrics.ipynb</a>
+<a href = "https://github.com/azevedolab/Docking/blob/main/src/csv4metrics.ipynb" title = "csv4metrics.ipynb">csv4metrics.ipynb</a>
 <br> </br>
 <h3>Chapter 18: Molegro Data Modeller to Estimate CDK6 Inhibition</h3>
 <p>
@@ -234,13 +234,13 @@ de Azevedo WF Jr. Molegro Data Modeller to Estimate CDK6 Inhibition. Methods Mol
 </p>
 <b>Jupyter Notebooks</b>
 <br> </br>
-<a href = "https://github.com/azevedolab/Docking/blob/main/prepare_BindingDB.ipynb" title = "prepare_BindingDB.ipynb">prepare_BindingDB.ipynb</a>
+<a href = "https://github.com/azevedolab/Docking/blob/main/src/prepare_BindingDB.ipynb" title = "prepare_BindingDB.ipynb">prepare_BindingDB.ipynb</a>
 <br> </br>
-<a href = "https://github.com/azevedolab/Docking/blob/main/prepare_MVD.ipynb" title = "prepare_MVD.ipynb">prepare_MVD.ipynb</a>
+<a href = "https://github.com/azevedolab/Docking/blob/main/src/prepare_MVD.ipynb" title = "prepare_MVD.ipynb">prepare_MVD.ipynb</a>
 <br> </br>
-<a href = "https://github.com/azevedolab/Docking/blob/main/visualize_dataset.ipynb" title = "visualize_dataset.ipynb">visualize_dataset.ipynb</a>
+<a href = "https://github.com/azevedolab/Docking/blob/main/src/visualize_dataset.ipynb" title = "visualize_dataset.ipynb">visualize_dataset.ipynb</a>
 <br> </br>
-<a href = "https://github.com/azevedolab/Docking/blob/main/csv4metrics.ipynb" title = "csv4metrics.ipynb">csv4metrics.ipynb</a>
+<a href = "https://github.com/azevedolab/Docking/blob/main/src/csv4metrics.ipynb" title = "csv4metrics.ipynb">csv4metrics.ipynb</a>
 <br> </br>
 <h3>Chapter 19: Neural Networks to Calculate CDK2 Inhibition</h3>
 <p>
@@ -248,13 +248,13 @@ de Azevedo WF Jr. Neural Networks to Calculate CDK2 Inhibition. Methods Mol Biol
 </p>
 <b>Jupyter Notebooks</b>
 <br> </br>
-<a href = "https://github.com/azevedolab/Docking/blob/main/prepare_BindingDB.ipynb" title = "prepare_BindingDB.ipynb">prepare_BindingDB.ipynb</a>
+<a href = "https://github.com/azevedolab/Docking/blob/main/src/prepare_BindingDB.ipynb" title = "prepare_BindingDB.ipynb">prepare_BindingDB.ipynb</a>
 <br> </br>
-<a href = "https://github.com/azevedolab/Docking/blob/main/prepare_MVD.ipynb" title = "prepare_MVD.ipynb">prepare_MVD.ipynb</a>
+<a href = "https://github.com/azevedolab/Docking/blob/main/src/prepare_MVD.ipynb" title = "prepare_MVD.ipynb">prepare_MVD.ipynb</a>
 <br> </br>
-<a href = "https://github.com/azevedolab/Docking/blob/main/visualize_dataset.ipynb" title = "visualize_dataset.ipynb">visualize_dataset.ipynb</a>
+<a href = "https://github.com/azevedolab/Docking/blob/main/src/visualize_dataset.ipynb" title = "visualize_dataset.ipynb">visualize_dataset.ipynb</a>
 <br> </br>
-<a href = "https://github.com/azevedolab/Docking/blob/main/csv4metrics.ipynb" title = "csv4metrics.ipynb">csv4metrics.ipynb</a>
+<a href = "https://github.com/azevedolab/Docking/blob/main/src/csv4metrics.ipynb" title = "csv4metrics.ipynb">csv4metrics.ipynb</a>
 <br> </br>
 <h3>Chapter 20: Tree-Based Methods to Predict Enzyme Inhibition</h3>
 <p>
@@ -262,23 +262,23 @@ de Azevedo WF Jr. Tree-Based Methods to Predict Enzyme Inhibition. Methods Mol B
 </p>
 <b>Jupyter Notebooks</b>
 <br> </br>
-<a href = "https://github.com/azevedolab/Docking/blob/main/prepare_BindingDB.ipynb" title = "prepare_BindingDB.ipynb">prepare_BindingDB.ipynb</a>
+<a href = "https://github.com/azevedolab/Docking/blob/main/src/prepare_BindingDB.ipynb" title = "prepare_BindingDB.ipynb">prepare_BindingDB.ipynb</a>
 <br> </br>
-<a href = "https://github.com/azevedolab/Docking/blob/main/prepare_MVD.ipynb" title = "prepare_MVD.ipynb">prepare_MVD.ipynb</a>
+<a href = "https://github.com/azevedolab/Docking/blob/main/src/prepare_MVD.ipynb" title = "prepare_MVD.ipynb">prepare_MVD.ipynb</a>
 <br> </br>
-<a href = "https://github.com/azevedolab/Docking/blob/main/visualize_dataset.ipynb" title = "visualize_dataset.ipynb">visualize_dataset.ipynb</a>
+<a href = "https://github.com/azevedolab/Docking/blob/main/src/visualize_dataset.ipynb" title = "visualize_dataset.ipynb">visualize_dataset.ipynb</a>
 <br> </br>
-<a href = "https://github.com/azevedolab/Docking/blob/main/SKReg4Model.ipynb" title = "SKReg4Model.ipynb">SKReg4Model.ipynb</a>
+<a href = "https://github.com/azevedolab/Docking/blob/main/src/SKReg4Model.ipynb" title = "SKReg4Model.ipynb">SKReg4Model.ipynb</a>
 <br> </br>
 <b>Additional Software (Including Third-Party Software)</b>
 <br> </br>
-<a href = "https://github.com/azevedolab/Docking/blob/main/vina_1.2.7_linux_x86_64" title = "AutoDock-Vina (1.2.7) (Linux Version)">AutoDock-Vina (1.2.7) (Linux Version)</a>
+<a href = "https://github.com/azevedolab/Docking/blob/main/src/vina_1.2.7_linux_x86_64" title = "AutoDock-Vina (1.2.7) (Linux Version)">AutoDock-Vina (1.2.7) (Linux Version)</a>
 <br> </br>
-<a href = "https://github.com/azevedolab/Docking/blob/main/vina_1.2.7_win.exe" title = "AutoDock-Vina (1.2.7) (Windows Version)">AutoDock-Vina (1.2.7) (Windows Version)</a>
+<a href = "https://github.com/azevedolab/Docking/blob/main/src/vina_1.2.7_win.exe" title = "AutoDock-Vina (1.2.7) (Windows Version)">AutoDock-Vina (1.2.7) (Windows Version)</a>
 <br> </br>
-<a href = "https://github.com/azevedolab/Docking/blob/main/vina_split_1.2.7_linux_x86_64" title = "AutoDock-Vina Split (1.2.7) (Linux Version)">AutoDock-Vina Split (1.2.7) (Linux Version)</a>
+<a href = "https://github.com/azevedolab/Docking/blob/main/src/vina_split_1.2.7_linux_x86_64" title = "AutoDock-Vina Split (1.2.7) (Linux Version)">AutoDock-Vina Split (1.2.7) (Linux Version)</a>
 <br> </br>
-<a href = "https://github.com/azevedolab/Docking/blob/main/vina_split_1.2.7_win.exe" title = "AutoDock-Vina Split (1.2.7) (Windows Version)">AutoDock-Vina Split (1.2.7) (Windows Version)</a>
+<a href = "https://github.com/azevedolab/Docking/blob/main/src/vina_split_1.2.7_win.exe" title = "AutoDock-Vina Split (1.2.7) (Windows Version)">AutoDock-Vina Split (1.2.7) (Windows Version)</a>
 <br> </br>
 <br> </br>
 <h2>Prof. Dr. Walter F. de Azevedo, Jr.</h2>
