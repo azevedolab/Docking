@@ -322,11 +322,10 @@ de Azevedo WF Jr, Quiroga R, Villarreal MA, da Silveira NJF, Bitencourt-Ferreira
 </p>
 <br> </br>
 <H2>How to Cite Docking Screens for Drug Discovery (First Edition)</H2>
-<a href = "https://doi.org/10.1007/978-1-4939-9752-7" title = ""de Azevedo WF Jr. Docking screens for drug discovery. 1st ed. de Azevedo WF Jr, editor. New York, NY: Humana Press; 2020.">
+<a href = "https://doi.org/10.1007/978-1-4939-9752-7" title = "de Azevedo WF Jr. Docking screens for drug discovery. 1st ed. de Azevedo WF Jr, editor. New York, NY: Humana Press; 2020.">
 <img src="https://drive.usercontent.google.com/download?id=1EcOnL_PcaJbn--kFJGrGfg2xmqg5sOt4&export=view&authuser=0" width=200 align=left title="de Azevedo WF Jr. Docking screens for drug discovery. 1st ed. de Azevedo WF Jr, editor. New York, NY: Humana Press; 2020.">
 </a>
-<p>
-"de Azevedo WF Jr. Docking screens for drug discovery. 1st ed. de Azevedo WF Jr, editor. New York, NY: Humana Press; 2020. <a href = "https://doi.org/10.1007/978-1-4939-9752-7" title = "de Azevedo WF Jr. Docking screens for drug discovery. 1st ed. de Azevedo WF Jr, editor. New York, NY: Humana Press; 2020.">DOI: 10.1007/978-1-4939-9752-7</a>
+<p>de Azevedo WF Jr. Docking screens for drug discovery. 1st ed. de Azevedo WF Jr, editor. New York, NY: Humana Press; 2020. <a href = "https://doi.org/10.1007/978-1-4939-9752-7" title = "de Azevedo WF Jr. Docking screens for drug discovery. 1st ed. de Azevedo WF Jr, editor. New York, NY: Humana Press; 2020.">DOI: 10.1007/978-1-4939-9752-7</a>
 </p>
 <a href="https://www.amazon.com.br/Docking-Screens-Discovery-Methods-Molecular-ebook/dp/B0B653BJ85">
 <img src="https://drive.usercontent.google.com/download?id=1ktGUzRY-SOoRjdvc6xKzzBNXzB6ibJfc&export=view&authuser=0" width=100 align=left title="de Azevedo WF Jr. Docking screens for drug discovery. 1st ed. de Azevedo WF Jr, editor. New York, NY: Humana Press; 2020.">
