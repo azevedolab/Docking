@@ -10,7 +10,7 @@ As in the first edition, this book focuses on recent developments in docking sim
 de Azevedo WF Jr, editor. Docking screens for drug discovery. 2nd ed. New York, NY: Springer; 2026. <a href = "https://doi.org/10.1007/978-1-0716-4949-7" title = "de Azevedo WF Jr, editor. Docking screens for drug discovery. 2nd ed. New York, NY: Springer; 2026.">DOI: 10.1007/978-1-0716-4949-7</a>
 </p>
 <a href="https://www.amazon.com/Docking-Screens-Discovery-Methods-Molecular/dp/1071649485/">
-<img src="https://github.com/azevedolab/Docking/blob/main/amazon_logo_01.png" width=100 align=left title="de Azevedo WF Jr, editor. Docking screens for drug discovery. 2nd ed. New York, NY: Springer; 2026."></a>
+<img src="https://drive.usercontent.google.com/download?id=1ktGUzRY-SOoRjdvc6xKzzBNXzB6ibJfc&export=view&authuser=0" width=100 align=left title="de Azevedo WF Jr, editor. Docking screens for drug discovery. 2nd ed. New York, NY: Springer; 2026."></a>
 <br> </br>
 <br> </br>
 <h2>Chapters</h2>
@@ -24,11 +24,11 @@ da Silva AD, Veit-Acosta M, Tarasova O, de Azevedo WF Jr. A Primer on SAnDReS 2.
 <br> </br>
 <a href = "https://github.com/azevedolab/Docking/blob/main/src/LinearRegression4CDK2_Ki.ipynb" title = "LinearRegression4CDK2_Ki.ipynb">LinearRegression4CDK2_Ki.ipynb</a>
 <br> </br>
-<a href = "https://github.com/azevedolab/Docking/blob/main/src/LinearRegression4CASF_2016_Ki.ipynb" title = "LinearRegression4CASF-2016_Ki.ipynb (solution of code exercise 1)">LinearRegression4CASF-2016_Ki.ipynb (solution of code exercise 1)</a>
+<a href = "https://github.com/azevedolab/Docking/blob/main/src/LinearRegression4CASF_2016_Ki.ipynb" title = "LinearRegression4CASF-2016_Ki.ipynb (solution of code exercise 1)">LinearRegression4CASF-2016_Ki.ipynb</a>
 <br> </br>
-<a href = "https://github.com/azevedolab/Docking/blob/main/src/LinearRegression4CDK19_IC50.ipynb" title = "LinearRegression4CDK19_IC50.ipynb (solution of code exercise 2)">LinearRegression4CDK19_IC50.ipynb (solution of code exercise 2)</a>
+<a href = "https://github.com/azevedolab/Docking/blob/main/src/LinearRegression4CDK19_IC50.ipynb" title = "LinearRegression4CDK19_IC50.ipynb (solution of code exercise 2)">LinearRegression4CDK19_IC50.ipynb</a>
 <br> </br>
-<a href = "https://github.com/azevedolab/Docking/blob/main/src/LinearRegressionMultipleModels4CDK2_Ki.ipynb" title = "LinearRegressionMultipleModels4CDK2_Ki.ipynb (solution of code challenge)">LinearRegressionMultipleModels4CDK2_Ki.ipynb (solution of code challenge)</a>
+<a href = "https://github.com/azevedolab/Docking/blob/main/src/LinearRegressionMultipleModels4CDK2_Ki.ipynb" title = "LinearRegressionMultipleModels4CDK2_Ki.ipynb (solution of code challenge)">LinearRegressionMultipleModels4CDK2_Ki.ipynb</a>
 <br> </br>
 <h3>Chapter 02: Exploring the Scoring Function Space with Lasso Regression</h3>
 <p>
@@ -40,9 +40,9 @@ da Silva AD, Baud S, de Azevedo WF Jr. Exploring the Scoring Function Space with
 <br> </br>
 <a href = "https://github.com/azevedolab/Docking/blob/main/src/Lasso4CDK2_Ki.ipynb" title = "Lasso4CDK2_Ki.ipynb">Lasso4CDK2_Ki.ipynb</a>
 <br> </br>
-<a href = "https://github.com/azevedolab/Docking/blob/main/src/Lasso4CASF_2016_Ki.ipynb" title = "Lasso4CASF_2016_Ki.ipynb (solution of code exercises 1 and 2)">Lasso4CASF_2016_Ki.ipynb (solution of code exercises 1 and 2)</a>
+<a href = "https://github.com/azevedolab/Docking/blob/main/src/Lasso4CASF_2016_Ki.ipynb" title = "Lasso4CASF_2016_Ki.ipynb (solution of code exercises 1 and 2)">Lasso4CASF_2016_Ki.ipynb</a>
 <br> </br>
-<a href = "https://github.com/azevedolab/Docking/blob/main/src/LassoRegressionMultipleModels4CASF_2016_Ki.ipynb" title = "LassoRegressionMultipleModels4CASF_2016_Ki.ipynb (solution of code challenge)">LassoRegressionMultipleModels4CASF_2016_Ki.ipynb (solution of code challenge)</a>
+<a href = "https://github.com/azevedolab/Docking/blob/main/src/LassoRegressionMultipleModels4CASF_2016_Ki.ipynb" title = "LassoRegressionMultipleModels4CASF_2016_Ki.ipynb (solution of code challenge)">LassoRegressionMultipleModels4CASF_2016_Ki.ipynb</a>
 <br> </br>
 <h3>Chapter 03: Combining MVD and Ridge Regression to Predict CDK2 Inhibition</h3>
 <p>
@@ -54,11 +54,11 @@ Pehlivan SN, da Silva AD, de Azevedo WF Jr. Combining MVD and Ridge Method to Pr
 <br> </br>
 <a href = "https://github.com/azevedolab/Docking/blob/main/src/Ridge_CDK2_Ki_MVD.ipynb" title = "Ridge_CDK2_Ki_MVD.ipynb">Ridge_CDK2_Ki_MVD.ipynb</a>
 <br> </br>
-<a href = "https://github.com/azevedolab/Docking/blob/main/src/RidgeRegressionMultipleAlphaModels4CDK2_Ki_MVD.ipynb" title = "RidgeRegressionMultipleAlphaModels4CDK2_Ki_MVD.ipynb (solution of code exercise 2)">RidgeRegressionMultipleAlphaModels4CDK2_Ki_MVD.ipynb (solution of code exercise 2)</a>
+<a href = "https://github.com/azevedolab/Docking/blob/main/src/RidgeRegressionMultipleAlphaModels4CDK2_Ki_MVD.ipynb" title = "RidgeRegressionMultipleAlphaModels4CDK2_Ki_MVD.ipynb (solution of code exercise 2)">RidgeRegressionMultipleAlphaModels4CDK2_Ki_MVD.ipynb</a>
 <br> </br>
-<a href = "https://github.com/azevedolab/Docking/blob/main/src/Ridge_CDK2_Ki_Vina.ipynb" title = "Ridge_CDK2_Ki_Vina.ipynb (solution of code exercise 3)">Ridge_CDK2_Ki_Vina.ipynb (solution of code exercise 3)</a>
+<a href = "https://github.com/azevedolab/Docking/blob/main/src/Ridge_CDK2_Ki_Vina.ipynb" title = "Ridge_CDK2_Ki_Vina.ipynb (solution of code exercise 3)">Ridge_CDK2_Ki_Vina.ipynb</a>
 <br> </br>
-<a href = "https://github.com/azevedolab/Docking/blob/main/src/RidgeRegressionMultipleModels4CDK2_Ki_MVD.ipynb" title = "RidgeRegressionMultipleModels4CDK2_Ki_MVD.ipynb (solution of code challenge)">RidgeRegressionMultipleModels4CDK2_Ki_MVD.ipynb (solution of code challenge)</a>
+<a href = "https://github.com/azevedolab/Docking/blob/main/src/RidgeRegressionMultipleModels4CDK2_Ki_MVD.ipynb" title = "RidgeRegressionMultipleModels4CDK2_Ki_MVD.ipynb (solution of code challenge)">RidgeRegressionMultipleModels4CDK2_Ki_MVD.ipynb</a>
 <br> </br>
 <h3>Chapter 04: Elastic Net Regression to Predict CDK2 Inhibition</h3>
 <p>
@@ -70,9 +70,9 @@ da Silva AD, de Azevedo WF Jr. Elastic Net Regression to Predict CDK2 Inhibition
 <br> </br>
 <a href = "https://github.com/azevedolab/Docking/blob/main/src/ElasticNet4CDK2_Ki.ipynb" title = "ElasticNet4CDK2_Ki.ipynb">ElasticNet4CDK2_Ki.ipynb</a>
 <br> </br>
-<a href = "https://github.com/azevedolab/Docking/blob/main/src/ElasticNet4CASF_2016_Ki.ipynb" title = "ElasticNet4CASF_2016_Ki.ipynb (solution for code exercises 1 and 2)">ElasticNet4CASF_2016_Ki.ipynb (solution for code exercises 1 and 2)</a>
+<a href = "https://github.com/azevedolab/Docking/blob/main/src/ElasticNet4CASF_2016_Ki.ipynb" title = "ElasticNet4CASF_2016_Ki.ipynb (solution for code exercises 1 and 2)">ElasticNet4CASF_2016_Ki.ipynb</a>
 <br> </br>
-<a href = "https://github.com/azevedolab/Docking/blob/main/src/ElasticNetRegressionModels4CASF_2016_Ki.ipynb" title = "ElasticNetRegressionModels4CASF_2016_Ki.ipynb (solution for code challenge)">ElasticNetRegressionModels4CASF_2016_Ki.ipynb (solution for code challenge)</a>
+<a href = "https://github.com/azevedolab/Docking/blob/main/src/ElasticNetRegressionModels4CASF_2016_Ki.ipynb" title = "ElasticNetRegressionModels4CASF_2016_Ki.ipynb (solution for code challenge)">ElasticNetRegressionModels4CASF_2016_Ki.ipynb</a>
 <br> </br>
 <h3>Chapter 05: Gradient Descent to Predict Enzyme Inhibition</h3>
 <p>
@@ -86,9 +86,9 @@ da Silva AD, de Azevedo WF Jr. Gradient Descent to Predict Enzyme Inhibition. Me
 <br> </br>
 <a href = "https://github.com/azevedolab/Docking/blob/main/src/SGDRegressor4CDK2_Ki.ipynb" title = "SGDRegressor4CDK2_Ki.ipynb">SGDRegressor4CDK2_Ki.ipynb</a>
 <br> </br>
-<a href = "https://github.com/azevedolab/Docking/blob/main/src/SGDRegressor4CASF_2016_Ki.ipynb" title = "SGDRegressor4CASF_2016_Ki.ipynb (solution for code exercises 1 and 2)">SGDRegressor4CASF_2016_Ki.ipynb (solution for code exercises 1 and 2)</a>
+<a href = "https://github.com/azevedolab/Docking/blob/main/src/SGDRegressor4CASF_2016_Ki.ipynb" title = "SGDRegressor4CASF_2016_Ki.ipynb (solution for code exercises 1 and 2)">SGDRegressor4CASF_2016_Ki.ipynb</a>
 <br> </br>
-<a href = "https://github.com/azevedolab/Docking/blob/main/src/SGDRegressorModels4CASF_2016_Ki.ipynb" title = "SGDRegressorModels4CASF_2016_Ki.ipynb (solution for code challenge)">SGDRegressorModels4CASF_2016_Ki.ipynb (solution for code challenge)</a>
+<a href = "https://github.com/azevedolab/Docking/blob/main/src/SGDRegressorModels4CASF_2016_Ki.ipynb" title = "SGDRegressorModels4CASF_2016_Ki.ipynb (solution for code challenge)">SGDRegressorModels4CASF_2016_Ki.ipynb</a>
 <br> </br>
 <h3>Chapter 06: Decision Tree for Prediction of Binding Affinity</h3>
 <p>
