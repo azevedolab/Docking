@@ -285,9 +285,9 @@ de Azevedo WF Jr. Tree-Based Methods to Predict Enzyme Inhibition. Methods Mol B
 <br> </br>
 <a href = "https://github.com/azevedolab/Docking/blob/main/src/vina_split_1.2.7_win.exe" title = "AutoDock-Vina Split (1.2.7) (Windows Version)">AutoDock-Vina Split (1.2.7) (Windows Version)</a>
 <br> </br>
-<a href = "https://github.com/azevedolab/sandres" title = "SAnDReS 2.0">SAnDReS 2.0 (Linux Version)</a>
+<a href = "https://github.com/azevedolab/sandres#readme" title = "SAnDReS 2.0">SAnDReS 2.0 (Linux Version)</a>
 <br> </br>
-<a href = "https://github.com/azevedolab/taba" title = "Taba">Taba (Linux Version)</a>
+<a href = "https://github.com/azevedolab/taba#readme" title = "Taba">Taba (Linux Version)</a>
 <br> </br>
 <br> </br>
 <h2>Prof. Dr. Walter F. de Azevedo, Jr.</h2>
